@@ -36,6 +36,7 @@ We welcome contributions from the community! Feel free to submit a pull request 
 - [CryptPad](https://cryptpad.fr/)
 - [Joplin](https://joplinapp.org/)
 - [Standard Notes](https://standardnotes.com/)
+- [Formbricks](https://formbricks.com/)
 ### Communication Tools
 - [Element (Matrix)](https://element.io/)
 - [Jitsi](https://jitsi.org/)
