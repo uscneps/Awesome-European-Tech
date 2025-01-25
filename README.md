@@ -1,6 +1,6 @@
 # Awesome European Tech 🇪🇺
 
-Below is an up-to-date list of recommended European projects, curated by the community with the goal of supporting and strengthening the European tech ecosystem.
+Up-to-date list of recommended European projects, curated by the community with the goal of supporting and strengthening the European tech ecosystem.
 
 European software and companies often adhere to unique standards that provide significant benefits to users. These standards not only enhance user experience but also set a global benchmark for innovation, privacy, and sustainability. For example:
 
@@ -59,6 +59,7 @@ We welcome contributions from the community! Feel free to submit a pull request 
 - [pCloud](https://www.pcloud.com/)
 - [Tresorit](https://tresorit.com/)
 - [Infomaniak kDrive](https://www.infomaniak.com/en/kdrive)
+- [datacrunch](https://datacrunch.io/)
 ### IDEs
 - [JetBrains](https://www.jetbrains.com/)
 - [Geany](https://www.geany.org/)
@@ -76,4 +77,7 @@ We welcome contributions from the community! Feel free to submit a pull request 
 - [Inkscape](https://inkscape.org/)
 - [Godot Engine](https://godotengine.org/)
 - [Audacity](https://www.audacityteam.org/)
-
+### AI
+- [Suse](https://www.suse.com/solutions/ai/)
+- [Gcore](https://gcore.com/)
+- [Cradle.bio](https://www.cradle.bio/)
