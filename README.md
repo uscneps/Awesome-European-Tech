@@ -81,3 +81,8 @@ We welcome contributions from the community! Feel free to submit a pull request 
 - [Suse](https://www.suse.com/solutions/ai/)
 - [Gcore](https://gcore.com/)
 - [Cradle.bio](https://www.cradle.bio/)
+### Operating Systems (OS)
+- [Canonical (Ubuntu)](https://canonical.com/)
+- [SUSE](https://www.suse.com/)
+- [UBports (Ubuntu Touch)](https://ubports.com/)
+- [KDE (Plasma Desktop)](https://kde.org/)
