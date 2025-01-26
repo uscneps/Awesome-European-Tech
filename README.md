@@ -155,7 +155,6 @@ We welcome contributions from the community! Feel free to submit a pull request 
 - [UBports (Ubuntu Touch)](https://ubports.com/)
 
 ### Password manager services
-- [Bitwarden](https://www.bitwarden.com)
 - [heylogin](https://www.heylogin.com)
 - [Hypervault](https://www.hypervault.com)
 - [Padloc](https://padloc.app)
