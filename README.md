@@ -22,6 +22,7 @@ We welcome contributions from the community! Feel free to submit a pull request 
 - [Gcore](https://gcore.com/)
 - [Leya](https://www.leya.law/)
 - [Suse](https://www.suse.com/solutions/ai/)
+- [Axelera](https://www.axelera.ai)
 
 ### Browsers
 - [Falkon](https://www.falkon.org/)
