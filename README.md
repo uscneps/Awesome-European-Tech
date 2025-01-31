@@ -17,6 +17,54 @@ Before exploring the list, we encourage you to visit the website that inspired t
 ## Contribute
 
 We welcome contributions from the community! Feel free to submit a pull request to help expand and improve the list.
+
+---
+
+```mermaid
+%%{init: {'theme': 'base' }}%%
+pie
+  title European Tech Projects by Country
+  "Germany (41)" : 41
+  "Netherlands (20)" : 20
+  "France (19)" : 19
+  "Switzerland (16)" : 16
+  "Italy (8)" : 8
+  "United Kingdom (7)" : 7
+  "Sweden (5)" : 5
+  "Belgium (5)" : 5
+  "Finland (4)" : 4
+  "Denmark (4)" : 4
+  "Spain (3)" : 3
+  "Norway (3)" : 3
+  "Czech Republic (3)" : 3
+  "Others (18)" : 18
+```
+---
+## Index
+- [AI](#ai)
+- [Browsers](#browsers)
+- [CDN](#cdn)
+- [Cloud](#cloud)
+- [Communication Tools](#communication-tools)
+- [DNS](#dns)
+- [Domain Name Registrars](#domain-name-registrars)
+- [E-commerce Platforms](#e-commerce-platforms)
+- [FinTech](#fintech)
+- [IDEs](#ides)
+- [Instant Messaging Apps](#instant-messaging-apps)
+- [Mail Providers](#mail-providers)
+- [Navigation Apps](#navigation-apps)
+- [Open-Source Projects](#open-source-projects)
+- [Operating Systems (OS)](#operating-systems-os)
+- [Password Manager Services](#password-manager-services)
+- [Productivity Tools](#productivity-tools)
+- [Search Engine](#search-engine)
+- [Translation Services](#translation-services)
+- [VPS](#vps)
+- [VPN](#vpn)
+- [Web Analytics](#web-analytics)
+---
+
 ### AI
 - [Cradle.bio](https://www.cradle.bio/) 🇳🇱 - AI-driven protein engineering for synthetic biology.
 - [Gcore](https://gcore.com/) 🇱🇺 - Edge AI, cloud, and content delivery solutions.
