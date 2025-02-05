@@ -25,7 +25,7 @@ We welcome contributions from the community! Feel free to submit a pull request 
 pie
   title European Tech Projects by Country
   "Germany (41)" : 41
-  "Netherlands (20)" : 20
+  "Netherlands (21)" : 21
   "France (19)" : 19
   "Switzerland (16)" : 16
   "Italy (8)" : 8
@@ -72,6 +72,7 @@ pie
 - [Mistral AI](https://mistral.ai/) 🇫🇷 - Open-source AI models for developers and enterprises.
 - [Suse](https://www.suse.com/solutions/ai/) 🇩🇪 - Enterprise-grade AI/ML solutions for open-source environments.
 - [Axelera](https://www.axelera.ai) 🇳🇱 - AI acceleration hardware for edge computing.
+- [Next Epoch](https://nextepoch.ai/) 🇳🇱 - AI platform for developing and managing AI agents with full data sovereignty.
 
 ### Browsers
 - [Falkon](https://www.falkon.org/) 🇩🇪 - Lightweight Qt-based browser
