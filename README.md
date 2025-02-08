@@ -27,7 +27,7 @@ pie
   "Germany (41)" : 41
   "Netherlands (21)" : 21
   "France (19)" : 19
-  "Switzerland (16)" : 16
+  "Switzerland (17)" : 17
   "Italy (8)" : 8
   "United Kingdom (7)" : 7
   "Sweden (5)" : 5
@@ -126,6 +126,7 @@ pie
 - [Exoscale DNS](https://www.exoscale.com/dns) 🇨🇭
 - [RcodeZero](https://www.rcodezero.at) 🇦🇹
 - [Scaleway DNS](https://www.scaleway.com/dns) 🇫🇷
+- [Quad9](https://quad9.net/) 🇨🇭
 
 ### Domain name registrars
 - [Aruba Domains](https://www.aruba.it) 🇮🇹
