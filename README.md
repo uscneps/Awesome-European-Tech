@@ -220,6 +220,9 @@ pie
 - [Startpage](https://www.startpage.com) 🇳🇱 - Private search with Google results.
 - [Swisscows](https://www.swisscows.com) 🇨🇭 - Family-friendly search engine with no tracking.
 
+## Sustainability
+- [Orbisk](https://orbisk.com/) 🇳🇱 - AI-powered tools to reduce food waste.
+
 ### Translation services
 - [DeepL](https://www.deepl.com) 🇩🇪 - AI-powered translation with high accuracy.
 - [eTranslation](https://ec.europa.eu/cefdigital/wiki/display/ETRANSLATION/eTranslation) 🇧🇪
