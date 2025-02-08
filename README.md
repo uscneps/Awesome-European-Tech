@@ -235,6 +235,7 @@ pie
 - [Contabo](https://www.contabo.com) 🇩🇪
 - [Hetzner](https://www.hetzner.com) 🇩🇪
 - [netcup](https://www.netcup.eu) 🇩🇪
+- [Scaleway](https://www.scaleway.com) 🇫🇷
 - [Tilaa](https://www.tilaa.com) 🇳🇱
 - [V.PS](https://www.v.ps) 🇳🇱
 - [Virtua.Cloud](https://www.virtua.cloud) 🇫🇷
