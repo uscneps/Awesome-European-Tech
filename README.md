@@ -198,6 +198,9 @@ Any contributions you make are **greatly appreciated**. If you have a suggestion
 - [Runbox](https://runbox.com/) 🇳🇴 - Email provider with privacy focus.
 - [Tutanota](https://tutanota.com/) 🇩🇪 - Encrypted email and calendar service.
 
+### Marketing Tools
+- [Keila](https://www.keila.io) 🇩🇪 - Open Source email newsletter tool.
+
 ### Navigation apps
 - [HERE WeGo Maps & Navigation](https://wego.here.com) 🇳🇱
 - [komoot](https://www.komoot.com) 🇩🇪
