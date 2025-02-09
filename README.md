@@ -33,7 +33,7 @@ pie
   "Sweden (5)" : 5
   "Belgium (6)" : 6
   "Finland (4)" : 4
-  "Denmark (4)" : 4
+  "Denmark (5)" : 5
   "Spain (3)" : 3
   "Norway (3)" : 3
   "Czech Republic (3)" : 3
@@ -240,6 +240,7 @@ pie
 - [Tilaa](https://www.tilaa.com) 🇳🇱
 - [V.PS](https://www.v.ps) 🇳🇱
 - [Virtua.Cloud](https://www.virtua.cloud) 🇫🇷
+- [Webdock](https://www.webdock.io) 🇩🇰
 
 ### VPN
 - [AirVPN](https://www.airvpn.org) 🇮🇹 - Privacy-focused VPN with open-source ethos.
