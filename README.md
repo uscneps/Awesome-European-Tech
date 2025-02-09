@@ -31,7 +31,7 @@ pie
   "Italy (8)" : 8
   "United Kingdom (7)" : 7
   "Sweden (5)" : 5
-  "Belgium (5)" : 5
+  "Belgium (6)" : 6
   "Finland (4)" : 4
   "Denmark (4)" : 4
   "Spain (3)" : 3
@@ -73,6 +73,7 @@ pie
 - [Suse](https://www.suse.com/solutions/ai/) 🇩🇪 - Enterprise-grade AI/ML solutions for open-source environments.
 - [Axelera](https://www.axelera.ai) 🇳🇱 - AI acceleration hardware for edge computing.
 - [Next Epoch](https://nextepoch.ai/) 🇳🇱 - AI platform for developing and managing AI agents with full data sovereignty.
+- [Timefold](https://timefold.ai/) 🇧🇪 - Planning AI / constraint solver for optimization problems
 
 ### Browsers
 - [Falkon](https://www.falkon.org/) 🇩🇪 - Lightweight Qt-based browser
