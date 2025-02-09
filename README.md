@@ -274,6 +274,12 @@ xychart-beta
 - [LibreOffice](https://www.libreoffice.org/) 🇩🇪 - Free and open-source office suite.
 - [OnlyOffice](https://www.onlyoffice.com/) 🇱🇻 - Collaborative office suite for teams.
 
+### Quantum Computing
+- [QBLOX](https://www.qblox.com/) 🇳🇱 - Qubit agnostic control electronics.
+- [Orange Quantum Systems](https://orangeqs.com/) 🇳🇱 - Solutions testing and integration.
+- [QuantWare](https://www.quantware.com/) 🇳🇱 - Design and manufacture of superconducting hardware.
+- [QphoX](https://qphox.eu/) 🇳🇱 - Design and manufacture of optical modems.
+
 ### Search engine
 - [Ecosia](https://www.ecosia.org) 🇩🇪 - Carbon-neutral search engine planting trees.
 - [Qwant](https://www.qwant.com) 🇫🇷 - Privacy-respecting search engine from France.
@@ -345,9 +351,3 @@ xychart-beta
 - [Vantevo](https://vantevo.com) 🇮🇹 - Analytics with real-time insights.
 - [Visitor Analytics](https://www.visitor-analytics.io) 🇷🇴 - Website analytics and behavior tracking.
 - [Wide Angle Analytics](https://wideangleanalytics.com) 🇵🇱 - Privacy-first analytics with EU data hosting.
-
-### Quantum Computing
-- [QBLOX](https://www.qblox.com/) 🇳🇱 - Qubit agnostic control electronics.
-- [Orange Quantum Systems](https://orangeqs.com/) 🇳🇱 - Solutions testing and integration.
-- [QuantWare](https://www.quantware.com/) 🇳🇱 - Design and manufacture of superconducting hardware.
-- [QphoX](https://qphox.eu/) 🇳🇱 - Design and manufacture of optical modems.
