@@ -72,6 +72,7 @@ Any contributions you make are **greatly appreciated**. If you have a suggestion
 - [VPS](#vps)
 - [VPN](#vpn)
 - [Web Analytics](#web-analytics)
+- [Quantum Computing](#quantum-computing)
 
 ```mermaid
 ---
@@ -344,3 +345,9 @@ xychart-beta
 - [Vantevo](https://vantevo.com) 🇮🇹 - Analytics with real-time insights.
 - [Visitor Analytics](https://www.visitor-analytics.io) 🇷🇴 - Website analytics and behavior tracking.
 - [Wide Angle Analytics](https://wideangleanalytics.com) 🇵🇱 - Privacy-first analytics with EU data hosting.
+
+### Quantum Computing
+- [QBLOX](https://www.qblox.com/) 🇳🇱 - Qubit agnostic control electronics.
+- [Orange Quantum Systems](https://orangeqs.com/) 🇳🇱 - Solutions testing and integration.
+- [QuantWare](https://www.quantware.com/) 🇳🇱 - Design and manufacture of superconducting hardware.
+- [QphoX](https://qphox.eu/) 🇳🇱 - Design and manufacture of optical modems.
