@@ -25,7 +25,7 @@ We welcome contributions from the community! Feel free to submit a pull request 
 pie
   title European Tech Projects by Country
   "Germany (41)" : 41
-  "Netherlands (21)" : 21
+  "Netherlands (22)" : 22
   "France (19)" : 19
   "Switzerland (17)" : 17
   "Italy (8)" : 8
@@ -46,6 +46,7 @@ pie
 - [CDN](#cdn)
 - [Cloud](#cloud)
 - [Communication Tools](#communication-tools)
+- [Database Management Systems](#database-management-systems)
 - [DNS](#dns)
 - [Domain Name Registrars](#domain-name-registrars)
 - [E-commerce Platforms](#e-commerce-platforms)
@@ -118,6 +119,9 @@ pie
 - [Jitsi](https://jitsi.org/) 🇫🇷 - Open-source video conferencing and chat.
 - [Threema](https://threema.ch/) 🇨🇭 - Privacy-focused messaging with end-to-end encryption.
 - [Wire](https://wire.com/) 🇨🇭 - Secure enterprise communication platform.
+
+### Database Management Systems
+- [DuckDB](https://duckdb.org/) 🇳🇱 - An in-process SQL OLAP database management system.
 
 ### DNS
 - [Bunny DNS](https://bunny.net/dns) 🇲🇹
