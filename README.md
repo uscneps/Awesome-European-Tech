@@ -1,7 +1,5 @@
-<div style="display: grid; place-items: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg"
-       alt="European Flag" width="100"
-       style="margin-bottom: -5px; border-radius: 5px;">
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg" width="100" />
   <h2 style="margin-top: 5px;">Awesome European Tech</h2>
   <p>
     <a href="https://github.com/uscneps/Awesome-European-Tech/graphs/contributors">
@@ -19,7 +17,6 @@
   </p>
 </div>
 
----
 ## Overview
 
 **An up-to-date list of recommended European projects and companies, curated by the community to support and strengthen the European tech ecosystem, specifically for users interested in privacy and sustainability.**
