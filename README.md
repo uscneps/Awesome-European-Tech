@@ -7,38 +7,25 @@ European software and companies often adhere to unique standards that provide si
 - **GDPR Compliance**: European companies are required to comply with the General Data Protection Regulation (GDPR), which ensures stricter data privacy and security for users compared to many other regions, including the U.S. This regulation has become a global gold standard for data protection.
 
 - **Sustainability Standards**: Many European companies prioritize eco-friendly practices, such as utilizing renewable energy, reducing carbon emissions, and adopting circular economy principles. These efforts align with the EU’s ambitious Green Deal initiatives, making them leaders in sustainable innovation.
+---
+## Acceptance Criteria
 
+1. **Compliance**: Must adhere to GDPR, UK GDPR, Swiss FADP, or other relevant European data protection frameworks.
+2. **European Headquarters**: The company or project must be based in Europe.
+3. **Technology Focus** Must be a company or project that leverages technology as a core component of its operations, products, or services.
+
+---
 ## Disclaimer
 
 This project is not about excluding non-European products or tools. There are countless exceptional global solutions that are widely used and appreciated. The purpose of this list is to highlight and support European startups and projects that excel in areas like privacy, sustainability, and innovation. By doing so, we aim to strengthen the European tech ecosystem while fostering collaboration and inclusivity across borders. Together, we can contribute to a more diverse, resilient, and interconnected global tech landscape.
 
 Before exploring the list, we encourage you to visit the website that inspired this project: [European Alternatives](https://european-alternatives.eu/). 
 
+---
 ## Contribute
 
-We welcome contributions from the community! Feel free to submit a pull request to help expand and improve the list.
+Any contributions you make are **greatly appreciated**. If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Thanks again! ❤️
 
----
-
-```mermaid
-%%{init: {'theme': 'base' }}%%
-pie
-  title European Tech Projects by Country
-  "Germany (41)" : 41
-  "Netherlands (21)" : 21
-  "France (19)" : 19
-  "Switzerland (16)" : 16
-  "Italy (8)" : 8
-  "United Kingdom (7)" : 7
-  "Sweden (5)" : 5
-  "Belgium (5)" : 5
-  "Finland (4)" : 4
-  "Denmark (4)" : 4
-  "Spain (3)" : 3
-  "Norway (3)" : 3
-  "Czech Republic (3)" : 3
-  "Others (18)" : 18
-```
 ---
 ## Index
 - [AI](#ai)
@@ -46,24 +33,26 @@ pie
 - [CDN](#cdn)
 - [Cloud](#cloud)
 - [Communication Tools](#communication-tools)
+- [Cybersecurity](#cybersecurity)
+- [Database Management Systems](#database-management-systems)
+- [Design and Creative Tools](#design-and-creative-tools)
 - [DNS](#dns)
 - [Domain Name Registrars](#domain-name-registrars)
 - [E-commerce Platforms](#e-commerce-platforms)
 - [FinTech](#fintech)
+- [Hardware](#hardware)
 - [IDEs](#ides)
-- [Instant Messaging Apps](#instant-messaging-apps)
 - [Mail Providers](#mail-providers)
 - [Navigation Apps](#navigation-apps)
-- [Open-Source Projects](#open-source-projects)
 - [Operating Systems (OS)](#operating-systems-os)
 - [Password Manager Services](#password-manager-services)
 - [Productivity Tools](#productivity-tools)
 - [Search Engine](#search-engine)
+- [Sustainability and Recycling](#sustainability-and-recycling)
 - [Translation Services](#translation-services)
 - [VPS](#vps)
 - [VPN](#vpn)
 - [Web Analytics](#web-analytics)
----
 
 ### AI
 - [Cradle.bio](https://www.cradle.bio/) 🇳🇱 - AI-driven protein engineering for synthetic biology.
@@ -73,6 +62,7 @@ pie
 - [Suse](https://www.suse.com/solutions/ai/) 🇩🇪 - Enterprise-grade AI/ML solutions for open-source environments.
 - [Axelera](https://www.axelera.ai) 🇳🇱 - AI acceleration hardware for edge computing.
 - [Next Epoch](https://nextepoch.ai/) 🇳🇱 - AI platform for developing and managing AI agents with full data sovereignty.
+- [Timefold](https://timefold.ai/) 🇧🇪 - Planning AI / constraint solver for optimization problems
 
 ### Browsers
 - [Falkon](https://www.falkon.org/) 🇩🇪 - Lightweight Qt-based browser
@@ -82,6 +72,7 @@ pie
 
 ### CDN
 - [Bunny CDN](https://bunnycdn.com) 🇲🇹
+- [CDN77](https://www.cdn77.com/) 🇨🇿 Content delivery network based in the Czech Republic.
 - [KeyCDN](https://www.keycdn.com) 🇨🇭
 - [Leaseweb CDN](https://www.leaseweb.com/cdn) 🇳🇱
 - [Myra CDN](https://www.myra-security.com/en/cdn) 🇩🇪
@@ -113,10 +104,31 @@ pie
 - [UpCloud](https://www.upcloud.com) 🇫🇮 - High-speed cloud infrastructure with maxIOPS.
 
 ### Communication Tools
+- [Alugha](https://alugha.com/) 🇩🇪 - Multilingual video hosting platform.
 - [Element (Matrix)](https://element.io/) 🇬🇧 - Secure messaging via the Matrix protocol.
+- [Ginlo](https://www.ginlo.net/) 🇩🇪 -Secure messaging app.
 - [Jitsi](https://jitsi.org/) 🇫🇷 - Open-source video conferencing and chat.
-- [Threema](https://threema.ch/) 🇨🇭 - Privacy-focused messaging with end-to-end encryption.
+- [Mastodon](https://joinmastodon.org/) 🇩🇪 -  Open-source decentralized social network.
+- [Olvid](https://www.olvid.io) 🇫🇷 - Privacy-first messaging with zero metadata.
+- [Pleroma](https://pleroma.social/) 🇩🇪 - Open-source social networking software.
+- [SKRED](https://www.skred.io) 🇳🇴 - Secure communication app.
+- [Sproof](https://www.sproof.io/) 🇩🇪 - Digital signature and document management service.
+- [Stackfield](https://www.stackfield.com/) 🇩🇪 - Cloud storage and collaboration service.
+- [TeamViewer](https://www.teamviewer.com/) 🇩🇪 - Remote access and support software company.
+- [TeleGuard](https://www.teleguard.com) 🇨🇭 - Encrypted messaging and calls.
+- [Threema](https://www.threema.ch) 🇨🇭 - End-to-end encrypted messaging for privacy.
 - [Wire](https://wire.com/) 🇨🇭 - Secure enterprise communication platform.
+
+### Cybersecurity
+- [Bitdefender](https://www.bitdefender.com/) 🇷🇴 - Cybersecurity and antivirus software company.
+
+### Database Management Systems
+- [DuckDB](https://duckdb.org/) 🇳🇱 - An in-process SQL OLAP database management system.
+
+### Design and Creative Tools
+- [Blender Foundation](https://www.blender.org/) 🇳🇱 - Open-source 3D creation suite for modeling, animation, and more.
+- [VectorStyler](https://www.vectorstyler.com/) 🇭🇺 - vector graphics editor.
+- [Photopea](https://www.photopea.com/) 🇨🇿 - online photo editor.
 
 ### DNS
 - [Bunny DNS](https://bunny.net/dns) 🇲🇹
@@ -124,8 +136,10 @@ pie
 - [deSEC](https://www.desec.io) 🇩🇪
 - [EuroDNS DNS](https://www.eurodns.com) 🇱🇺
 - [Exoscale DNS](https://www.exoscale.com/dns) 🇨🇭
+- [Hostinger](https://www.hostinger.com/) 🇱🇹
 - [RcodeZero](https://www.rcodezero.at) 🇦🇹
 - [Scaleway DNS](https://www.scaleway.com/dns) 🇫🇷
+- [Quad9](https://quad9.net/) 🇨🇭
 
 ### Domain name registrars
 - [Aruba Domains](https://www.aruba.it) 🇮🇹
@@ -143,27 +157,34 @@ pie
 
 ### E-commerce Platforms
 - [Mollie](https://www.mollie.com/) 🇳🇱 - Payment gateway for seamless online transactions.
+- [Omnisend](https://www.omnisend.com/) 🇱🇹 - An e-commerce marketing automation platform.
 - [PrestaShop](https://www.prestashop.com/) 🇫🇷 - Open-source e-commerce platform.
 - [Shopware](https://www.shopware.com/) 🇩🇪 - Modern e-commerce solutions for businesses.
+- [Shoperb](https://www.shoperb.com/) 🇵🇱 -  e-commerce platform.
+- [Vinted](https://www.vinted.com/) 🇱🇹 - An online marketplace for second-hand fashion.
+- [Wolt](https://wolt.com/) 🇫🇮 - Food delivery service. (Now owned by US-based DoorDash.)
 
 ### FinTech
 - [Adyen](https://www.adyen.com/) 🇳🇱 - Global payment processing for businesses.
+- [FintechOS](https://www.fintechos.com/) 🇷🇴 - Company providing digital transformation for financial institutions.
 - [Klarna](https://www.klarna.com/) 🇸🇪 - Buy now, pay later shopping solutions.
+- [Monzo](https://monzo.com/) 🇬🇧 - digital bank.
 - [N26](https://n26.com/) 🇩🇪 - Mobile-first banking with no hidden fees.
 - [Revolut](https://www.revolut.com/) 🇬🇧 - Digital banking and currency exchange app.
+- [Smartbill](https://www.smartbill.ro/) 🇷🇴 - Fintech company offering billing solutions.
+- [Starling Bank](https://www.starlingbank.com/) 🇬🇧 - Digital challenger bank.
 - [Wise (ex TransferWise)](https://wise.com/) 🇬🇧 - Low-cost international money transfers.
+
+### Hardware
+- [ASML](https://www.asml.com/) 🇳🇱 - Company specializing in photolithography systems for the semiconductor industry.
+- [Recogni](https://www.recogni.com/) 🇩🇪 - Company focusing on AI-powered vision processing for autonomous systems.
+- [Kalray](https://www.kalrayinc.com/) 🇫🇷 - Company developing processors for data centers and AI.
+- [Sipearl](https://www.sipearl.com/) 🇫🇷 - Company developing microprocessors for high-performance computing (HPC), particularly for the European Processor Initiative (EPI).
 
 ### IDEs
 - [BlueJ](https://www.bluej.org/) 🇬🇧 - Java IDE for education and beginners.
 - [Geany](https://www.geany.org/) 🇩🇪 - Lightweight IDE for multiple programming languages.
 - [JetBrains](https://www.jetbrains.com/) 🇨🇿 - Developer tools and IDEs for efficient coding.
-
-### Instant messaging apps
-- [ginlo Private](https://www.ginlo.net) 🇩🇪 - Secure messaging for businesses and individuals.
-- [Olvid](https://www.olvid.io) 🇫🇷 - Privacy-first messaging with zero metadata.
-- [SKRED](https://www.skred.io) 🇳🇴 - Secure communication app.
-- [TeleGuard](https://www.teleguard.com) 🇨🇭 - Encrypted messaging and calls.
-- [Threema](https://www.threema.ch) 🇨🇭 - End-to-end encrypted messaging for privacy.
 
 ### Mail Providers
 - [Disroot](https://disroot.org/en/services/email) 🇳🇱 - Privacy-focused email with open-source tools.
@@ -184,11 +205,10 @@ pie
 - [Sygic GPS Navigation](https://www.sygic.com) 🇸🇰
 - [TomTom GO Navigation](https://www.tomtom.com) 🇳🇱
 
-### Open-Source Projects
-- [Audacity](https://www.audacityteam.org/) 🇬🇧 - Free, open-source audio editing software.
-- [Blender](https://www.blender.org/) 🇳🇱 - 3D creation suite for animation and modeling.
-- [GIMP](https://www.gimp.org/) 🇩🇪 - Open-source image editing tool.
-- [Krita](https://krita.org/) 🇳🇱 - Digital painting software for artists.
+### Music and Travel
+- [Bolt](https://bolt.eu/) 🇪🇪 - Mobility company offering ride-hailing and other services.
+- [Spotify](https://www.spotify.com/) 🇸🇪 - Audio streaming and media services provider.
+- [Booking.com](https://www.booking.com/) 🇳🇱 - Travel fare aggregator and travel metasearch engine.
 
 ### Operating Systems (OS)
 - [Canonical (Ubuntu)](https://canonical.com/) 🇬🇧 - Ubuntu Linux distribution and services.
@@ -220,8 +240,12 @@ pie
 - [Startpage](https://www.startpage.com) 🇳🇱 - Private search with Google results.
 - [Swisscows](https://www.swisscows.com) 🇨🇭 - Family-friendly search engine with no tracking.
 
-## Sustainability
+
+### Sustainability and Recycling
+- [Cylib](https://www.cylib.com/) 🇩🇪 - startup Focusing on lithium-ion battery recycling
+- [Dembrane](https://www.dembrane.com/) 🇩🇰 - Company specializing in sustainable membrane technology.
 - [Orbisk](https://orbisk.com/) 🇳🇱 - AI-powered tools to reduce food waste.
+
 
 ### Translation services
 - [DeepL](https://www.deepl.com) 🇩🇪 - AI-powered translation with high accuracy.
@@ -229,6 +253,8 @@ pie
 - [ModernMT](https://www.modernmt.com) 🇮🇹 - Adaptive machine translation for enterprises.
 - [Reverso](https://www.reverso.net) 🇫🇷 - Context-aware translation and language tools.
 - [Textshuttle](https://www.textshuttle.ai) 🇨🇭 - AI-driven translation for businesses.
+- [Unbabel](https://unbabel.com/) 🇵🇹
+- [Widn.ai](https://www.widn.ai/) 🇵🇹
 
 ### VPS
 - [AlphaVPS](https://www.alphavps.com) 🇧🇬
@@ -237,10 +263,14 @@ pie
 - [Combell Cloud](https://www.combell.com/en/cloud) 🇧🇪
 - [Contabo](https://www.contabo.com) 🇩🇪
 - [Hetzner](https://www.hetzner.com) 🇩🇪
+- [NordVPN](https://nordvpn.com/) 🇱🇹
 - [netcup](https://www.netcup.eu) 🇩🇪
+- [Scaleway](https://www.scaleway.com) 🇫🇷
+- [Surfshark](https://surfshark.com/) 🇱🇹
 - [Tilaa](https://www.tilaa.com) 🇳🇱
 - [V.PS](https://www.v.ps) 🇳🇱
 - [Virtua.Cloud](https://www.virtua.cloud) 🇫🇷
+- [Webdock](https://www.webdock.io) 🇩🇰
 
 ### VPN
 - [AirVPN](https://www.airvpn.org) 🇮🇹 - Privacy-focused VPN with open-source ethos.
