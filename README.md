@@ -240,9 +240,12 @@ Any contributions you make are **greatly appreciated**. If you have a suggestion
 - [Startpage](https://www.startpage.com) 🇳🇱 - Private search with Google results.
 - [Swisscows](https://www.swisscows.com) 🇨🇭 - Family-friendly search engine with no tracking.
 
+
 ### Sustainability and Recycling
 - [Cylib](https://www.cylib.com/) 🇩🇪 - startup Focusing on lithium-ion battery recycling
 - [Dembrane](https://www.dembrane.com/) 🇩🇰 - Company specializing in sustainable membrane technology.
+- [Orbisk](https://orbisk.com/) 🇳🇱 - AI-powered tools to reduce food waste.
+
 
 ### Translation services
 - [DeepL](https://www.deepl.com) 🇩🇪 - AI-powered translation with high accuracy.
