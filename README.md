@@ -1,6 +1,28 @@
-# Awesome European Tech 🇪🇺
+<div style="display: grid; place-items: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg"
+       alt="European Flag" width="100"
+       style="margin-bottom: -5px; border-radius: 5px;">
+  <h2 style="margin-top: 5px;">Awesome European Tech</h2>
+  <p>
+    <a href="https://github.com/uscneps/Awesome-European-Tech/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/uscneps/Awesome-European-Tech" />
+    </a>
+    <a href="https://awesome.re">
+      <img alt="Awesome List Badge" src="https://awesome.re/badge.svg" />
+    </a>
+    <a href="https://github.com/uscneps/Awesome-European-Tech/blob/main/LICENSE">
+      <img alt="GitHub License" src="https://img.shields.io/github/license/uscneps/Awesome-European-Tech" />
+    </a>
+    <a href="https://github.com/sponsors/uscneps">
+      <img alt="GitHub Sponsors" src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?logo=github-sponsors" />
+    </a>
+  </p>
+</div>
 
-**An up-to-date list of recommended European projects, curated by the community to support and strengthen the European tech ecosystem, specifically for users interested in privacy and sustainability.**
+---
+## Overview
+
+**An up-to-date list of recommended European projects and companies, curated by the community to support and strengthen the European tech ecosystem, specifically for users interested in privacy and sustainability.**
 
 European software and companies often adhere to unique standards that provide significant benefits to users. These standards not only enhance user experience but also set a global benchmark for innovation, privacy, and sustainability. For example:
 
@@ -54,6 +76,24 @@ Any contributions you make are **greatly appreciated**. If you have a suggestion
 - [VPN](#vpn)
 - [Web Analytics](#web-analytics)
 
+```mermaid
+---
+config:
+    xyChart:
+        width: 1200
+        height: 800
+    themeVariables:
+        xyChart:
+            titleColor: "#80808"
+            xAxis:
+                labelFontSize: 12
+---
+xychart-beta
+    title "Number of Projects by Country"
+    x-axis ["🇩🇪", "🇳🇱", "🇫🇷", "🇨🇭", "🇬🇧", "🇧🇪", "🇮🇹", "🇫🇮", "🇨🇿", "🇩🇰", "🇱🇹", "🇸🇪", "🇷🇴", "🇪🇸", "🇳🇴", "🇵🇱", "🇱🇺", "🇲🇹", "🇭🇺", "🇵🇹", "🇧🇬", "🇮🇸", "🇸🇮", "🇱🇻", "🇨🇾", "🇸🇰", "🇦🇹", "🇪🇪"]
+    y-axis "Number of Projects" 0 --> 50
+    bar [48, 24, 23, 21, 8, 7, 7, 5, 5, 5, 6, 6, 4, 3, 3, 3, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1]
+```
 ---
 
 ### AI
