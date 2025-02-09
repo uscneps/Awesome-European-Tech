@@ -54,13 +54,14 @@ Any contributions you make are **greatly appreciated**. If you have a suggestion
 - [VPN](#vpn)
 - [Web Analytics](#web-analytics)
 
+---
+
 ### AI
 - [Cradle.bio](https://www.cradle.bio/) 🇳🇱 - AI-driven protein engineering for synthetic biology.
 - [Gcore](https://gcore.com/) 🇱🇺 - Edge AI, cloud, and content delivery solutions.
 - [Leya](https://www.leya.law/) 🇸🇪 - AI-powered legal research and contract analysis platform.
 - [Mistral AI](https://mistral.ai/) 🇫🇷 - Open-source AI models for developers and enterprises.
 - [Suse](https://www.suse.com/solutions/ai/) 🇩🇪 - Enterprise-grade AI/ML solutions for open-source environments.
-- [Axelera](https://www.axelera.ai) 🇳🇱 - AI acceleration hardware for edge computing.
 - [Next Epoch](https://nextepoch.ai/) 🇳🇱 - AI platform for developing and managing AI agents with full data sovereignty.
 - [Timefold](https://timefold.ai/) 🇧🇪 - Planning AI / constraint solver for optimization problems
 
@@ -177,6 +178,8 @@ Any contributions you make are **greatly appreciated**. If you have a suggestion
 
 ### Hardware
 - [ASML](https://www.asml.com/) 🇳🇱 - Company specializing in photolithography systems for the semiconductor industry.
+- [Axelera](https://www.axelera.ai) 🇳🇱 - AI acceleration hardware for edge computing.
+- [Raspberry Pi](https://www.raspberrypi.com/) 🇬🇧 - Affordable single-board computers for DIY projects.
 - [Recogni](https://www.recogni.com/) 🇩🇪 - Company focusing on AI-powered vision processing for autonomous systems.
 - [Kalray](https://www.kalrayinc.com/) 🇫🇷 - Company developing processors for data centers and AI.
 - [Sipearl](https://www.sipearl.com/) 🇫🇷 - Company developing microprocessors for high-performance computing (HPC), particularly for the European Processor Initiative (EPI).
@@ -232,7 +235,6 @@ Any contributions you make are **greatly appreciated**. If you have a suggestion
 - [Joplin](https://joplinapp.org/) 🇫🇷 - Note-taking app with sync and encryption.
 - [LibreOffice](https://www.libreoffice.org/) 🇩🇪 - Free and open-source office suite.
 - [OnlyOffice](https://www.onlyoffice.com/) 🇱🇻 - Collaborative office suite for teams.
-- [Raspberry Pi](https://www.raspberrypi.com/) 🇬🇧 - Affordable single-board computers for DIY projects.
 
 ### Search engine
 - [Ecosia](https://www.ecosia.org) 🇩🇪 - Carbon-neutral search engine planting trees.
