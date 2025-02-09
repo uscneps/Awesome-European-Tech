@@ -262,6 +262,7 @@ Any contributions you make are **greatly appreciated**. If you have a suggestion
 - [Hetzner](https://www.hetzner.com) 🇩🇪
 - [NordVPN](https://nordvpn.com/) 🇱🇹
 - [netcup](https://www.netcup.eu) 🇩🇪
+- [Scaleway](https://www.scaleway.com) 🇫🇷
 - [Surfshark](https://surfshark.com/) 🇱🇹
 - [Tilaa](https://www.tilaa.com) 🇳🇱
 - [V.PS](https://www.v.ps) 🇳🇱
