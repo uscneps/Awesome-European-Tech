@@ -62,6 +62,7 @@ Any contributions you make are **greatly appreciated**. If you have a suggestion
 - [Hardware](#hardware)
 - [IDEs](#ides)
 - [Mail Providers](#mail-providers)
+- [Marketing Tools](#marketing-tools)
 - [Navigation Apps](#navigation-apps)
 - [Operating Systems (OS)](#operating-systems-os)
 - [Password Manager Services](#password-manager-services)
@@ -72,6 +73,7 @@ Any contributions you make are **greatly appreciated**. If you have a suggestion
 - [VPS](#vps)
 - [VPN](#vpn)
 - [Web Analytics](#web-analytics)
+- [Quantum Computing](#quantum-computing)
 
 ```mermaid
 ---
@@ -89,7 +91,7 @@ xychart-beta
     title "Number of Projects by Country"
     x-axis ["🇩🇪", "🇳🇱", "🇫🇷", "🇨🇭", "🇬🇧", "🇧🇪", "🇮🇹", "🇫🇮", "🇨🇿", "🇩🇰", "🇱🇹", "🇸🇪", "🇷🇴", "🇪🇸", "🇳🇴", "🇵🇱", "🇱🇺", "🇲🇹", "🇭🇺", "🇵🇹", "🇧🇬", "🇮🇸", "🇸🇮", "🇱🇻", "🇨🇾", "🇸🇰", "🇦🇹", "🇪🇪"]
     y-axis "Number of Projects" 0 --> 50
-    bar [48, 24, 23, 21, 8, 7, 7, 5, 5, 5, 7, 6, 4, 3, 3, 3, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1]
+    bar [49, 28, 23, 21, 8, 7, 7, 5, 5, 5, 7, 6, 4, 3, 3, 3, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1]
 ```
 ---
 
@@ -236,6 +238,9 @@ xychart-beta
 - [Runbox](https://runbox.com/) 🇳🇴 - Email provider with privacy focus.
 - [Tutanota](https://tutanota.com/) 🇩🇪 - Encrypted email and calendar service.
 
+### Marketing Tools
+- [Keila](https://www.keila.io) 🇩🇪 - Open Source email newsletter tool.
+
 ### Navigation apps
 - [HERE WeGo Maps & Navigation](https://wego.here.com) 🇳🇱
 - [komoot](https://www.komoot.com) 🇩🇪
@@ -273,6 +278,12 @@ xychart-beta
 - [Joplin](https://joplinapp.org/) 🇫🇷 - Note-taking app with sync and encryption.
 - [LibreOffice](https://www.libreoffice.org/) 🇩🇪 - Free and open-source office suite.
 - [OnlyOffice](https://www.onlyoffice.com/) 🇱🇻 - Collaborative office suite for teams.
+
+### Quantum Computing
+- [QBLOX](https://www.qblox.com/) 🇳🇱 - Qubit agnostic control electronics.
+- [Orange Quantum Systems](https://orangeqs.com/) 🇳🇱 - Solutions testing and integration.
+- [QuantWare](https://www.quantware.com/) 🇳🇱 - Design and manufacture of superconducting hardware.
+- [QphoX](https://qphox.eu/) 🇳🇱 - Design and manufacture of optical modems.
 
 ### Search engine
 - [Ecosia](https://www.ecosia.org) 🇩🇪 - Carbon-neutral search engine planting trees.
