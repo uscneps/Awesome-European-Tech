@@ -113,7 +113,7 @@ xychart-beta
 - [Vivaldi](https://vivaldi.com/) 🇮🇸
 
 ### CDN
-- [Bunny CDN](https://bunnycdn.com) 🇲🇹
+- [Bunny CDN](https://bunnycdn.com) 🇸🇮
 - [CDN77](https://www.cdn77.com/) 🇨🇿 Content delivery network based in the Czech Republic.
 - [KeyCDN](https://www.keycdn.com) 🇨🇭
 - [Leaseweb CDN](https://www.leaseweb.com/cdn) 🇳🇱
@@ -174,7 +174,7 @@ xychart-beta
 - [Photopea](https://www.photopea.com/) 🇨🇿 - online photo editor.
 
 ### DNS
-- [Bunny DNS](https://bunny.net/dns) 🇲🇹
+- [Bunny DNS](https://bunny.net/dns) 🇸🇮
 - [ClouDNS](https://www.cloudns.net) 🇧🇬
 - [deSEC](https://www.desec.io) 🇩🇪
 - [EuroDNS DNS](https://www.eurodns.com) 🇱🇺
