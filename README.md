@@ -246,7 +246,7 @@ xychart-beta
 ### Music and Travel
 - [Bolt](https://bolt.eu/) 🇪🇪 - Mobility company offering ride-hailing and other services.
 - [Spotify](https://www.spotify.com/) 🇸🇪 - Audio streaming and media services provider.
-- [Booking.com](https://www.booking.com/) 🇳🇱 - Travel fare aggregator and travel metasearch engine.
+- [Trivago](https://www.trivago.com/) 🇩🇪 - Travel fare aggregator and travel metasearch engine.
 
 ### Navigation apps
 - [HERE WeGo Maps & Navigation](https://wego.here.com) 🇳🇱
