@@ -63,7 +63,9 @@ Any contributions you make are **greatly appreciated**. If you have a suggestion
 - [IDEs](#ides)
 - [Mail Providers](#mail-providers)
 - [Marketing Tools](#marketing-tools)
+- [Music and Travel](#music-and-travel)
 - [Navigation Apps](#navigation-apps)
+- [Network Tools and Apps](#network-tools-and-apps)
 - [Operating Systems (OS)](#operating-systems-os)
 - [Password Manager Services](#password-manager-services)
 - [Productivity Tools](#productivity-tools)
@@ -241,6 +243,11 @@ xychart-beta
 ### Marketing Tools
 - [Keila](https://www.keila.io) 🇩🇪 - Open Source email newsletter tool.
 
+### Music and Travel
+- [Bolt](https://bolt.eu/) 🇪🇪 - Mobility company offering ride-hailing and other services.
+- [Spotify](https://www.spotify.com/) 🇸🇪 - Audio streaming and media services provider.
+- [Booking.com](https://www.booking.com/) 🇳🇱 - Travel fare aggregator and travel metasearch engine.
+
 ### Navigation apps
 - [HERE WeGo Maps & Navigation](https://wego.here.com) 🇳🇱
 - [komoot](https://www.komoot.com) 🇩🇪
@@ -251,10 +258,8 @@ xychart-beta
 - [Sygic GPS Navigation](https://www.sygic.com) 🇸🇰
 - [TomTom GO Navigation](https://www.tomtom.com) 🇳🇱
 
-### Music and Travel
-- [Bolt](https://bolt.eu/) 🇪🇪 - Mobility company offering ride-hailing and other services.
-- [Spotify](https://www.spotify.com/) 🇸🇪 - Audio streaming and media services provider.
-- [Booking.com](https://www.booking.com/) 🇳🇱 - Travel fare aggregator and travel metasearch engine.
+### Network Tools and Apps
+- [IPXO](https://www.ipxo.com/) 🇱🇹 - The network platform for IPv4 leasing, management, threat intelligence, and IPv6 capabilities.
 
 ### Operating Systems (OS)
 - [Canonical (Ubuntu)](https://canonical.com/) 🇬🇧 - Ubuntu Linux distribution and services.
