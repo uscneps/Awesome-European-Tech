@@ -62,6 +62,7 @@ Any contributions you make are **greatly appreciated**. If you have a suggestion
 - [Hardware](#hardware)
 - [IDEs](#ides)
 - [Mail Providers](#mail-providers)
+- [Marketing Tools](#marketing-tools)
 - [Navigation Apps](#navigation-apps)
 - [Operating Systems (OS)](#operating-systems-os)
 - [Password Manager Services](#password-manager-services)
@@ -89,7 +90,7 @@ xychart-beta
     title "Number of Projects by Country"
     x-axis ["🇩🇪", "🇳🇱", "🇫🇷", "🇨🇭", "🇬🇧", "🇧🇪", "🇮🇹", "🇫🇮", "🇨🇿", "🇩🇰", "🇱🇹", "🇸🇪", "🇷🇴", "🇪🇸", "🇳🇴", "🇵🇱", "🇱🇺", "🇲🇹", "🇭🇺", "🇵🇹", "🇧🇬", "🇮🇸", "🇸🇮", "🇱🇻", "🇨🇾", "🇸🇰", "🇦🇹", "🇪🇪"]
     y-axis "Number of Projects" 0 --> 50
-    bar [48, 24, 23, 21, 8, 7, 7, 5, 5, 5, 6, 6, 4, 3, 3, 3, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1]
+    bar [49, 24, 23, 21, 8, 7, 7, 5, 5, 5, 6, 6, 4, 3, 3, 3, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1]
 ```
 ---
 
@@ -234,6 +235,9 @@ xychart-beta
 - [ProtonMail](https://proton.me/mail) 🇨🇭 - Secure email with end-to-end encryption.
 - [Runbox](https://runbox.com/) 🇳🇴 - Email provider with privacy focus.
 - [Tutanota](https://tutanota.com/) 🇩🇪 - Encrypted email and calendar service.
+
+### Marketing Tools
+- [Keila](https://www.keila.io) 🇩🇪 - Open Source email newsletter tool.
 
 ### Navigation apps
 - [HERE WeGo Maps & Navigation](https://wego.here.com) 🇳🇱
