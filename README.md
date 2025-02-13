@@ -340,7 +340,7 @@ xychart-beta
 ### Web Analytics
 - [Alceris](https://www.alceris.com) 🇫🇷 - AI-driven analytics for web performance and SEO.
 - [Analyzati](https://analyzati.com) 🇪🇸 - Privacy-friendly web analytics for businesses.
-- [Counter](https://counter.com) 🇳🇱 - Lightweight, open-source web analytics.
+- [Counter](https://counter.dev) 🇳🇱 - Lightweight, open-source web analytics.
 - [digistats](https://digistats.io) 🇩🇪 - Analytics with real-time tracking.
 - [Dreamdata](https://www.dreamdata.io) 🇩🇰 - B2B revenue attribution and data platform.
 - [etracker](https://www.etracker.com) 🇩🇪 - Visitor analytics and heatmaps.
@@ -358,7 +358,7 @@ xychart-beta
 - [Stormly](https://stormly.com) 🇳🇱 - AI-powered business intelligence platform.
 - [Swetrix](https://swetrix.com) 🇺🇦 - Lightweight analytics with real-time tracking.
 - [TelemetryDeck](https://telemetrydeck.com) 🇩🇪 - Privacy-first telemetry for apps.
-- [tinylytics](https://tinylytics.com) 🇳🇱 - Simple web analytics for indie developers.
+- [tinylytics](https://tinylytics.app) 🇳🇱 - Simple web analytics for indie developers.
 - [Vantevo](https://vantevo.com) 🇮🇹 - Analytics with real-time insights.
 - [Visitor Analytics](https://www.visitor-analytics.io) 🇷🇴 - Website analytics and behavior tracking.
 - [Wide Angle Analytics](https://wideangleanalytics.com) 🇵🇱 - Privacy-first analytics with EU data hosting.
