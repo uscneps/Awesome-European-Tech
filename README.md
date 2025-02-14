@@ -122,7 +122,7 @@ xychart-beta
 
 ### Cloud
 - [Aruba](https://www.aruba.it) 🇮🇹 - Cloud hosting and data center services.
-- [ByteSync](https://www.bytesyncapp.com/) 🇫🇷 - Secured & fine-grained cloud data synchronization.
+- [ByteSync](https://www.bytesyncapp.com/) 🇫🇷 - Secure & fine-grained cloud data synchronization.
 - [Cozy](https://www.cozy.io) 🇫🇷 - Privacy-first personal cloud for data management.
 - [datacrunch](https://datacrunch.io/) 🇫🇮 - GPU cloud computing for AI/ML workloads.
 - [Elastx](https://www.elastx.se) 🇸🇪 - Managed cloud hosting with a focus on sustainability.
