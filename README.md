@@ -301,6 +301,7 @@ xychart-beta
 
 
 ### Sustainability and Recycling
+- [CALMS](https://calms.com) 🇸🇮 - Company working in Industry 4.0, IIOT and AI to reduce energy usage and optimize optimization of factories using advanced softare and hardware solution.
 - [Cylib](https://www.cylib.com/) 🇩🇪 - startup Focusing on lithium-ion battery recycling
 - [Dembrane](https://www.dembrane.com/) 🇩🇰 - Company specializing in sustainable membrane technology.
 - [Orbisk](https://orbisk.com/) 🇳🇱 - AI-powered tools to reduce food waste.
