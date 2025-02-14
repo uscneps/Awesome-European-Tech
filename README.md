@@ -119,6 +119,7 @@ xychart-beta
 - [Leaseweb CDN](https://www.leaseweb.com/cdn) 🇳🇱
 - [Myra CDN](https://www.myra-security.com/en/cdn) 🇩🇪
 - [OVHcloud CDN](https://www.ovhcloud.com/en/cdn/) 🇫🇷
+- [Vindral](https://vindral.com) 🇸🇪
 
 ### Cloud
 - [Aruba](https://www.aruba.it) 🇮🇹 - Cloud hosting and data center services.
