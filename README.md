@@ -93,7 +93,7 @@ xychart-beta
     title "Number of Projects by Country"
     x-axis ["🇩🇪", "🇳🇱", "🇫🇷", "🇨🇭", "🇬🇧", "🇧🇪", "🇮🇹", "🇫🇮", "🇨🇿", "🇩🇰", "🇱🇹", "🇸🇪", "🇷🇴", "🇪🇸", "🇳🇴", "🇵🇱", "🇱🇺", "🇸🇮", "🇭🇺", "🇵🇹", "🇧🇬", "🇮🇸", "🇸🇮", "🇱🇻", "🇨🇾", "🇸🇰", "🇦🇹", "🇪🇪"]
     y-axis "Number of Projects" 0 --> 60
-    bar [49, 28, 24, 21, 8, 7, 7, 5, 5, 5, 7, 6, 4, 4, 3, 3, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1]
+    bar [49, 28, 24, 21, 8, 7, 7, 5, 5, 5, 7, 7, 4, 4, 3, 3, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1]
 ```
 ---
 
@@ -119,6 +119,7 @@ xychart-beta
 - [Leaseweb CDN](https://www.leaseweb.com/cdn) 🇳🇱
 - [Myra CDN](https://www.myra-security.com/en/cdn) 🇩🇪
 - [OVHcloud CDN](https://www.ovhcloud.com/en/cdn/) 🇫🇷
+- [Vindral](https://vindral.com) 🇸🇪
 
 ### Cloud
 - [Aruba](https://www.aruba.it) 🇮🇹 - Cloud hosting and data center services.
