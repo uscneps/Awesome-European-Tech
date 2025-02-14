@@ -93,7 +93,7 @@ xychart-beta
     title "Number of Projects by Country"
     x-axis ["🇩🇪", "🇳🇱", "🇫🇷", "🇨🇭", "🇬🇧", "🇧🇪", "🇮🇹", "🇫🇮", "🇨🇿", "🇩🇰", "🇱🇹", "🇸🇪", "🇷🇴", "🇪🇸", "🇳🇴", "🇵🇱", "🇱🇺", "🇸🇮", "🇭🇺", "🇵🇹", "🇧🇬", "🇮🇸", "🇸🇮", "🇱🇻", "🇨🇾", "🇸🇰", "🇦🇹", "🇪🇪"]
     y-axis "Number of Projects" 0 --> 60
-    bar [49, 28, 23, 21, 8, 7, 7, 5, 5, 5, 7, 6, 4, 4, 3, 3, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1]
+    bar [49, 28, 24, 21, 8, 7, 7, 5, 5, 5, 7, 6, 4, 4, 3, 3, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1]
 ```
 ---
 
@@ -122,6 +122,7 @@ xychart-beta
 
 ### Cloud
 - [Aruba](https://www.aruba.it) 🇮🇹 - Cloud hosting and data center services.
+- [ByteSync](https://www.bytesyncapp.com/) 🇫🇷 - Secured & fine-grained cloud data synchronization.
 - [Cozy](https://www.cozy.io) 🇫🇷 - Privacy-first personal cloud for data management.
 - [datacrunch](https://datacrunch.io/) 🇫🇮 - GPU cloud computing for AI/ML workloads.
 - [Elastx](https://www.elastx.se) 🇸🇪 - Managed cloud hosting with a focus on sustainability.
