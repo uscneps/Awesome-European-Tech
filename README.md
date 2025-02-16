@@ -76,25 +76,6 @@ Any contributions you make are **greatly appreciated**. If you have a suggestion
 - [VPN](#vpn)
 - [Web Analytics](#web-analytics)
 - [Quantum Computing](#quantum-computing)
-
-```mermaid
----
-config:
-    xyChart:
-        width: 1200
-        height: 800
-    themeVariables:
-        xyChart:
-            titleColor: "#80808"
-            xAxis:
-                labelFontSize: 12
----
-xychart-beta
-    title "Number of Projects by Country"
-    x-axis ["🇩🇪", "🇳🇱", "🇫🇷", "🇨🇭", "🇬🇧", "🇧🇪", "🇮🇹", "🇫🇮", "🇨🇿", "🇩🇰", "🇱🇹", "🇸🇪", "🇷🇴", "🇪🇸", "🇳🇴", "🇵🇱", "🇱🇺", "🇸🇮", "🇭🇺", "🇵🇹", "🇧🇬", "🇮🇸", "🇸🇮", "🇱🇻", "🇨🇾", "🇸🇰", "🇦🇹", "🇪🇪"]
-    y-axis "Number of Projects" 0 --> 60
-    bar [49, 28, 24, 21, 8, 7, 7, 5, 5, 5, 7, 7, 4, 4, 3, 3, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1]
-```
 ---
 
 ### AI
@@ -110,7 +91,7 @@ xychart-beta
 - [Falkon](https://www.falkon.org/) 🇩🇪 - Lightweight Qt-based browser
 - [Mullvad](https://mullvad.net/en/download/browser/linux) 🇸🇪 - Privacy-focused browser
 - [Otter Browser](https://otter-browser.org/) 🇵🇱
-- [Vivaldi](https://vivaldi.com/) 🇮🇸
+- [Vivaldi](https://vivaldi.com/) 🇳🇴
 
 ### CDN
 - [Bunny CDN](https://bunnycdn.com) 🇸🇮
@@ -119,11 +100,9 @@ xychart-beta
 - [Leaseweb CDN](https://www.leaseweb.com/cdn) 🇳🇱
 - [Myra CDN](https://www.myra-security.com/en/cdn) 🇩🇪
 - [OVHcloud CDN](https://www.ovhcloud.com/en/cdn/) 🇫🇷
-- [Vindral](https://vindral.com) 🇸🇪
 
 ### Cloud
 - [Aruba](https://www.aruba.it) 🇮🇹 - Cloud hosting and data center services.
-- [ByteSync](https://www.bytesyncapp.com/) 🇫🇷 - Secure & fine-grained cloud data synchronization.
 - [Cozy](https://www.cozy.io) 🇫🇷 - Privacy-first personal cloud for data management.
 - [datacrunch](https://datacrunch.io/) 🇫🇮 - GPU cloud computing for AI/ML workloads.
 - [Elastx](https://www.elastx.se) 🇸🇪 - Managed cloud hosting with a focus on sustainability.
@@ -141,6 +120,7 @@ xychart-beta
 - [OVHcloud](https://www.ovhcloud.com) 🇫🇷 - Global cloud provider with bare-metal servers.
 - [pCloud](https://www.pcloud.com/) 🇨🇭 - Lifetime encrypted cloud storage plans.
 - [Proton Drive](https://www.proton.me/drive) 🇨🇭 - Secure cloud storage from Proton.
+- [Peergos](https://peergos.org/) 🇬🇧 - A p2p, secure file storage, social network and application protocol
 - [Scaleway](https://www.scaleway.com) 🇫🇷 - Developer-friendly cloud and bare-metal solutions.
 - [Seeweb](https://www.seeweb.it) 🇮🇹 - High-performance Italian cloud hosting.
 - [STACKIT](https://www.stackit.de) 🇩🇪 - Cloud platform for businesses.
@@ -166,6 +146,9 @@ xychart-beta
 ### Cybersecurity
 - [Bitdefender](https://www.bitdefender.com/) 🇷🇴 - Cybersecurity and antivirus software company.
 - [IPXO](https://www.ipxo.com/) 🇱🇹 - The network platform for IPv4 leasing, management, threat intelligence, and IPv6 capabilities.
+- [Gemalto](https://en.wikipedia.org/wiki/Gemalto) 🇳🇱 - smartcards and hardware security modules. 
+- [OPNsense](https://opnsense.org/) 🇳🇱 -  firewall/router OS and (optionally) a custom computer to run on. 
+- [Mikrotik](https://mikrotik.com/) 🇱🇻 - network equipment (routers, switches). 
 
 ### Database Management Systems
 - [DuckDB](https://duckdb.org/) 🇳🇱 - An in-process SQL OLAP database management system.
@@ -222,6 +205,7 @@ xychart-beta
 - [Wise (ex TransferWise)](https://wise.com/) 🇬🇧 - Low-cost international money transfers.
 
 ### Hardware
+- [Arduino](https://www.arduino.cc/) 🇮🇹 - single-board microcontroller
 - [ASML](https://www.asml.com/) 🇳🇱 - Company specializing in photolithography systems for the semiconductor industry.
 - [Axelera](https://www.axelera.ai) 🇳🇱 - AI acceleration hardware for edge computing.
 - [Raspberry Pi](https://www.raspberrypi.com/) 🇬🇧 - Affordable single-board computers for DIY projects.
@@ -265,8 +249,11 @@ xychart-beta
 - [IPXO](https://www.ipxo.com/) 🇱🇹 - The network platform for IPv4 leasing, management, threat intelligence, and IPv6 capabilities.
 
 ### Operating Systems (OS)
+- [/e/ OS Android](https://e.foundation/) 🇫🇷 - Privacy-focused mobile OS based on Android.
 - [Canonical (Ubuntu)](https://canonical.com/) 🇬🇧 - Ubuntu Linux distribution and services.
+- [CachyOS](https://cachyos.org/) 🇩🇪 - Arch-based Linux distribution.
 - [KDE (Plasma Desktop)](https://kde.org/) 🇩🇪 - Customizable desktop environment for Linux.
+- [Manjaro](https://manjaro.org/) 🇩🇪 - User-friendly Arch-based Linux distribution.
 - [SUSE](https://www.suse.com/) 🇩🇪 - Enterprise-grade Linux distribution.
 - [UBports (Ubuntu Touch)](https://ubports.com/) 🇩🇪 - Mobile OS based on Ubuntu.
 
@@ -298,13 +285,12 @@ xychart-beta
 - [Qwant](https://www.qwant.com) 🇫🇷 - Privacy-respecting search engine from France.
 - [Startpage](https://www.startpage.com) 🇳🇱 - Private search with Google results.
 - [Swisscows](https://www.swisscows.com) 🇨🇭 - Family-friendly search engine with no tracking.
-
+- [Mojeek](https://www.mojeek.com/) 🇬🇧
 
 ### Sustainability and Recycling
 - [Cylib](https://www.cylib.com/) 🇩🇪 - startup Focusing on lithium-ion battery recycling
 - [Dembrane](https://www.dembrane.com/) 🇩🇰 - Company specializing in sustainable membrane technology.
 - [Orbisk](https://orbisk.com/) 🇳🇱 - AI-powered tools to reduce food waste.
-
 
 ### Translation services
 - [DeepL](https://www.deepl.com) 🇩🇪 - AI-powered translation with high accuracy.
@@ -322,7 +308,6 @@ xychart-beta
 - [Combell Cloud](https://www.combell.com/en/cloud) 🇧🇪
 - [Contabo](https://www.contabo.com) 🇩🇪
 - [Hetzner](https://www.hetzner.com) 🇩🇪
-- [NordVPN](https://nordvpn.com/) 🇱🇹
 - [netcup](https://www.netcup.eu) 🇩🇪
 - [Scaleway](https://www.scaleway.com) 🇫🇷
 - [Surfshark](https://surfshark.com/) 🇱🇹
@@ -334,7 +319,9 @@ xychart-beta
 ### VPN
 - [AirVPN](https://www.airvpn.org) 🇮🇹 - Privacy-focused VPN with open-source ethos.
 - [F‑Secure FREEDOME VPN](https://www.f-secure.com) 🇫🇮 - VPN with malware blocking.
+- [IVPN](https://www.ivpn.net/en/) 🇬🇧
 - [Mullvad VPN](https://www.mullvad.net) 🇸🇪 - No-logs VPN with anonymous accounts.
+- [NordVPN](https://nordvpn.com/) 🇱🇹
 - [GOOSE VPN](https://www.goosevpn.com) 🇳🇱 - Dutch VPN provider with no-log policy.
 - [OctoVPN](https://www.octovpn.com) 🇩🇰 - High-performance gaming VPN with DDoS protection.
 - [Xeovo](https://www.xeovo.com) 🇫🇮 - Privacy-focused VPN with anonymous payments.
