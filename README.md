@@ -150,6 +150,7 @@ Any contributions you make are **greatly appreciated**. If you have a suggestion
 - [Goteo](https://www.goteo.org) 🇪🇸 - Open network for crowdfunding, collaborations and training, leader in social innovation.
 - [Boomerang](https://boomerang.dk) 🇩🇰 - Reward, investment and loan-based crowdfunding platform, 100% Danish-owned.
 - [Ulule](https://www.ulule.com) 🇫🇷 - Crowdfunding, certified training courses and a store of sustainable brands, to help develop creative, sustainable projects.
+- [betterplace.org](https://www.betterplace.org) 🇩🇪 - Germany's largest donation platform: non-profit and non-profit-oriented.
 
 ### Cybersecurity
 - [Bitdefender](https://www.bitdefender.com/) 🇷🇴 - Cybersecurity and antivirus software company.
