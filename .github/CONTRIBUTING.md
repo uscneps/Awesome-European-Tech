@@ -41,16 +41,6 @@ To contribute changes, follow these steps:
 Thank you for your contributions! Together, we can strengthen the European tech ecosystem and foster collaboration and inclusivity across borders.
 
 [![All Contributors](https://img.shields.io/github/all-contributors/uscenps/Awesome-European-Tech?color=ee8449&style=flat-square)](#contributors)
-
-## Contributors
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
 ---
 
 
