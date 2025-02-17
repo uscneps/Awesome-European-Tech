@@ -152,6 +152,7 @@ Any contributions you make are **greatly appreciated**. If you have a suggestion
 - [Ulule](https://www.ulule.com) 🇫🇷 - Crowdfunding, certified training courses and a store of sustainable brands, to help develop creative, sustainable projects.
 - [betterplace.org](https://www.betterplace.org) 🇩🇪 - Germany's largest donation platform: non-profit and non-profit-oriented.
 - [Give&Fund](https://www.giveandfund.com) 🇬🇷 - Easy-to-use and safe crowdfunding platform that offers you a better way to raise money online.
+- [RaiseNow](https://www.raisenow.com) 🇨🇭 - Powerful donation platform for nonprofits of all sizes.
 
 ### Cybersecurity
 - [Bitdefender](https://www.bitdefender.com/) 🇷🇴 - Cybersecurity and antivirus software company.
