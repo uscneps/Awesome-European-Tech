@@ -52,6 +52,7 @@ Any contributions you make are **greatly appreciated**. If you have a suggestion
 - [CDN](#cdn)
 - [Cloud](#cloud)
 - [Communication Tools](#communication-tools)
+- [Crowdfunding Platforms](#crowdfunding-platforms)
 - [Cybersecurity](#cybersecurity)
 - [Database Management Systems](#database-management-systems)
 - [Design and Creative Tools](#design-and-creative-tools)
@@ -142,6 +143,16 @@ Any contributions you make are **greatly appreciated**. If you have a suggestion
 - [TeleGuard](https://www.teleguard.com) 🇨🇭 - Encrypted messaging and calls.
 - [Threema](https://www.threema.ch) 🇨🇭 - End-to-end encrypted messaging for privacy.
 - [Wire](https://wire.com/) 🇨🇭 - Secure enterprise communication platform.
+
+### Crowdfunding Platforms
+- [WhyDonate](https://whydonate.com) 🇳🇱 - Raise Money for Charity and Individuals for free.
+- [JustGiving](https://www.justgiving.com) 🇬🇧 - The worlds leading online fundraising platform, helping charities to make more with GiftAid.
+- [Goteo](https://www.goteo.org) 🇪🇸 - Open network for crowdfunding, collaborations and training, leader in social innovation.
+- [Boomerang](https://boomerang.dk) 🇩🇰 - Reward, investment and loan-based crowdfunding platform, 100% Danish-owned.
+- [Ulule](https://www.ulule.com) 🇫🇷 - Crowdfunding, certified training courses and a store of sustainable brands, to help develop creative, sustainable projects.
+- [betterplace.org](https://www.betterplace.org) 🇩🇪 - Germany's largest donation platform: non-profit and non-profit-oriented.
+- [Give&Fund](https://www.giveandfund.com) 🇬🇷 - Easy-to-use and safe crowdfunding platform that offers you a better way to raise money online.
+- [RaiseNow](https://www.raisenow.com) 🇨🇭 - Powerful donation platform for nonprofits of all sizes.
 
 ### Cybersecurity
 - [Bitdefender](https://www.bitdefender.com/) 🇷🇴 - Cybersecurity and antivirus software company.
