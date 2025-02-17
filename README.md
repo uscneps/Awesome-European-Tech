@@ -52,6 +52,7 @@ Any contributions you make are **greatly appreciated**. If you have a suggestion
 - [CDN](#cdn)
 - [Cloud](#cloud)
 - [Communication Tools](#communication-tools)
+- [Crowdfunding Platforms](#crowdfunding-platforms)
 - [Cybersecurity](#cybersecurity)
 - [Database Management Systems](#database-management-systems)
 - [Design and Creative Tools](#design-and-creative-tools)
@@ -142,6 +143,8 @@ Any contributions you make are **greatly appreciated**. If you have a suggestion
 - [TeleGuard](https://www.teleguard.com) 🇨🇭 - Encrypted messaging and calls.
 - [Threema](https://www.threema.ch) 🇨🇭 - End-to-end encrypted messaging for privacy.
 - [Wire](https://wire.com/) 🇨🇭 - Secure enterprise communication platform.
+
+### Crowdfunding Platforms
 
 ### Cybersecurity
 - [Bitdefender](https://www.bitdefender.com/) 🇷🇴 - Cybersecurity and antivirus software company.
