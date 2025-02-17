@@ -40,6 +40,14 @@ To contribute changes, follow these steps:
 
 Thank you for your contributions! Together, we can strengthen the European tech ecosystem and foster collaboration and inclusivity across borders.
 
+## Contributors
+<a href="https://github.com/uscneps/Awesome-European-Tech/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=uscneps/Awesome-European-Tech" />
+</a>
+
+<!---
+Made with [contrib.rocks](https://contrib.rocks). -> for future udpates
+-->
 ---
 
 
