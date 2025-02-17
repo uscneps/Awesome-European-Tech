@@ -43,7 +43,7 @@ Before exploring the list, we encourage you to visit the website that inspired t
 ---
 ## Contribute
 
-Any contributions you make are **greatly appreciated**. If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Thanks again! ❤️
+Any contributions you make are **greatly appreciated**, please refer to the [contributing file](.github/CONTRIBUTING.md). Thanks again! ❤️
 
 ---
 ## Index
