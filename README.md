@@ -2,9 +2,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg" width="100" />
   <h2 style="margin-top: 5px;">Awesome European Tech</h2>
   <p>
-    <a href="https://github.com/uscneps/Awesome-European-Tech/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/uscneps/Awesome-European-Tech" />
-    </a>
+      <a href="https://github.com/uscneps/Awesome-European-Tech/graphs/contributors">
+        <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/uscneps/Awesome-European-Tech" />
+      </a>
     <a href="https://awesome.re">
       <img alt="Awesome List Badge" src="https://awesome.re/badge.svg" />
     </a>
@@ -43,7 +43,7 @@ Before exploring the list, we encourage you to visit the website that inspired t
 ---
 ## Contribute
 
-Any contributions you make are **greatly appreciated**. If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Thanks again! ❤️
+Any contributions you make are **greatly appreciated**, please refer to the [contributing file](.github/CONTRIBUTING.md). Thanks again! ❤️
 
 ---
 ## Index
