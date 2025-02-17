@@ -148,6 +148,7 @@ Any contributions you make are **greatly appreciated**. If you have a suggestion
 - [WhyDonate](https://whydonate.com) 🇳🇱 - Raise Money for Charity and Individuals for free.
 - [JustGiving](https://www.justgiving.com) 🇬🇧 - The worlds leading online fundraising platform, helping charities to make more with GiftAid.
 - [Goteo](https://www.goteo.org) 🇪🇸 - Open network for crowdfunding, collaborations and training, leader in social innovation.
+- [Boomerang](https://boomerang.dk) 🇩🇰 - Reward, investment and loan-based crowdfunding platform, 100% Danish-owned.
 
 ### Cybersecurity
 - [Bitdefender](https://www.bitdefender.com/) 🇷🇴 - Cybersecurity and antivirus software company.
