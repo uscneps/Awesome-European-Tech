@@ -145,6 +145,7 @@ Any contributions you make are **greatly appreciated**. If you have a suggestion
 - [Wire](https://wire.com/) 🇨🇭 - Secure enterprise communication platform.
 
 ### Crowdfunding Platforms
+- [WhyDonate](https://whydonate.com) 🇳🇱 - Raise Money for Charity and Individuals for free.
 
 ### Cybersecurity
 - [Bitdefender](https://www.bitdefender.com/) 🇷🇴 - Cybersecurity and antivirus software company.
