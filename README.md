@@ -233,6 +233,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Disroot](https://disroot.org/en/services/email) 🇳🇱 - Privacy-focused email with open-source tools.
 - [Mailbox.org](https://mailbox.org/) 🇩🇪 - Secure email with ad-free productivity suites.
 - [Mailfence](https://www.mailfence.com/) 🇧🇪 - Encrypted email and document collaboration.
+- [Mailo](https://www.mailo.com/) 🇫🇷 - French mail provider with ethical focus.
 - [Posteo](https://posteo.de/) 🇩🇪 - Eco-friendly email with strong privacy.
 - [ProtonMail](https://proton.me/mail) 🇨🇭 - Secure email with end-to-end encryption.
 - [Runbox](https://runbox.com/) 🇳🇴 - Email provider with privacy focus.
@@ -243,6 +244,8 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 
 ### Music and Travel
 - [Bolt](https://bolt.eu/) 🇪🇪 - Mobility company offering ride-hailing and other services.
+- [Deezer](https://www.deezer.com/) 🇫🇷 - Audio streaming and media services provider with user centric money distribution.
+- [Qobuz](https://www.qobuz.com/) 🇫🇷 - Audio streaming and media services provider with Hi-Fi quality.
 - [Spotify](https://www.spotify.com/) 🇸🇪 - Audio streaming and media services provider.
 - [Trivago](https://www.trivago.com/) 🇩🇪 - Travel fare aggregator and travel metasearch engine.
 
@@ -279,6 +282,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [uniqkey](https://www.uniqkey.com) 🇩🇰
 
 ### Productivity Tools
+- [AnyType](https://anytype.io) 🇨🇭 - Open source, end-to-end encrypted alternative to Notion.
 - [CryptPad](https://cryptpad.fr/) 🇫🇷 - End-to-end encrypted collaboration suite.
 - [Formbricks](https://formbricks.com/) 🇩🇪 - Open-source survey and feedback tool.
 - [Joplin](https://joplinapp.org/) 🇫🇷 - Note-taking app with sync and encryption.
