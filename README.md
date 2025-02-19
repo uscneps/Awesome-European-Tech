@@ -366,4 +366,4 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [tinylytics](https://tinylytics.app) 🇳🇱 - Simple web analytics for indie developers.
 - [Vantevo](https://vantevo.com) 🇮🇹 - Analytics with real-time insights.
 - [Visitor Analytics](https://www.visitor-analytics.io) 🇷🇴 - Website analytics and behavior tracking.
-- [Wide Angle Analytics](https://wideangleanalytics.com) 🇵🇱 - Privacy-first analytics with EU data hosting.
+- [Wide Angle Analytics](https://wideangle.co) 🇵🇱 - Privacy-first analytics with EU data hosting.
