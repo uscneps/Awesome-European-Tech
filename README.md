@@ -206,6 +206,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 
 ### FinTech
 - [Adyen](https://www.adyen.com/) 🇳🇱 - Global payment processing for businesses.
+- [bunq](https://www.bunq.com/) 🇳🇱 - Mobile-first bank.
 - [FintechOS](https://www.fintechos.com/) 🇷🇴 - Company providing digital transformation for financial institutions.
 - [Klarna](https://www.klarna.com/) 🇸🇪 - Buy now, pay later shopping solutions.
 - [Monzo](https://monzo.com/) 🇬🇧 - digital bank.
@@ -324,6 +325,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Combell Cloud](https://www.combell.com/en/cloud) 🇧🇪
 - [Contabo](https://www.contabo.com) 🇩🇪
 - [Hetzner](https://www.hetzner.com) 🇩🇪
+- [Infomaniak VPS](https://www.infomaniak.com/en/hosting/our-cloud-computing-offers) 🇨🇭
 - [netcup](https://www.netcup.eu) 🇩🇪
 - [Scaleway](https://www.scaleway.com) 🇫🇷
 - [Surfshark](https://surfshark.com/) 🇱🇹
@@ -335,11 +337,13 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 ### VPN
 - [AirVPN](https://www.airvpn.org) 🇮🇹 - Privacy-focused VPN with open-source ethos.
 - [F‑Secure FREEDOME VPN](https://www.f-secure.com) 🇫🇮 - VPN with malware blocking.
+- [GOOSE VPN](https://www.goosevpn.com) 🇳🇱 - Dutch VPN provider with no-log policy.
 - [IVPN](https://www.ivpn.net/en/) 🇬🇧
 - [Mullvad VPN](https://www.mullvad.net) 🇸🇪 - No-logs VPN with anonymous accounts.
 - [NordVPN](https://nordvpn.com/) 🇱🇹
-- [GOOSE VPN](https://www.goosevpn.com) 🇳🇱 - Dutch VPN provider with no-log policy.
 - [OctoVPN](https://www.octovpn.com) 🇩🇰 - High-performance gaming VPN with DDoS protection.
+- [PrivateVPN](https://privatevpn.com/) 🇸🇪 - VPN service with port forwarding features.
+- [ProtonVPN](https://protonvpn.com/) 🇨🇭 - VPN with built-in adblocker, uses custom Stealth protocol.
 - [Xeovo](https://www.xeovo.com) 🇫🇮 - Privacy-focused VPN with anonymous payments.
 
 ### Web Analytics
