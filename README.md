@@ -60,6 +60,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Domain Name Registrars](#domain-name-registrars)
 - [E-commerce Platforms](#e-commerce-platforms)
 - [FinTech](#fintech)
+- [Gaming Projects](#gaming-projects)
 - [Hardware](#hardware)
 - [IDEs](#ides)
 - [Mail Providers](#mail-providers)
@@ -217,6 +218,9 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Smartbill](https://www.smartbill.ro/) 🇷🇴 - Fintech company offering billing solutions.
 - [Starling Bank](https://www.starlingbank.com/) 🇬🇧 - Digital challenger bank.
 - [Wise (ex TransferWise)](https://wise.com/) 🇬🇧 - Low-cost international money transfers.
+
+### Gaming Projects
+- [GOG](https://www.gog.com/) 🇵🇱 - Digital game shop with DRM-free games only.
 
 ### Hardware
 - [Arduino](https://www.arduino.cc/) 🇮🇹 - single-board microcontroller
