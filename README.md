@@ -138,7 +138,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Mastodon](https://joinmastodon.org/) 🇩🇪 -  Open-source decentralized social network.
 - [Olvid](https://www.olvid.io) 🇫🇷 - Privacy-first messaging with zero metadata.
 - [Pleroma](https://pleroma.social/) 🇩🇪 - Open-source social networking software.
-- [SKRED](https://www.skred.io) 🇳🇴 - Secure communication app.
+- [SKRED](https://www.skred.app/) 🇫🇷 - Secure communication app.
 - [Sproof](https://www.sproof.io/) 🇩🇪 - Digital signature and document management service.
 - [Stackfield](https://www.stackfield.com/) 🇩🇪 - Cloud storage and collaboration service.
 - [TeamViewer](https://www.teamviewer.com/) 🇩🇪 - Remote access and support software company.
