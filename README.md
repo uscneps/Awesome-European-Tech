@@ -88,6 +88,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Suse](https://www.suse.com/solutions/ai/) 🇩🇪 - Enterprise-grade AI/ML solutions for open-source environments.
 - [Next Epoch](https://nextepoch.ai/) 🇳🇱 - AI platform for developing and managing AI agents with full data sovereignty.
 - [Timefold](https://timefold.ai/) 🇧🇪 - Planning AI / constraint solver for optimization problems
+- [ZenML](https://zenml.io/) 🇩🇪 - Production-Grade MLOps Systems, handling evaluation, monitoring, and deployment at scale.
 
 ### Browsers
 - [Falkon](https://www.falkon.org/) 🇩🇪 - Lightweight Qt-based browser
