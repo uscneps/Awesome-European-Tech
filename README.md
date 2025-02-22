@@ -158,6 +158,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [RaiseNow](https://www.raisenow.com) 🇨🇭 - Powerful donation platform for nonprofits of all sizes.
 
 ### Cybersecurity
+- [ALTCHA](https://altcha.org) 🇨🇿 - Captcha and spam protection.
 - [Bitdefender](https://www.bitdefender.com/) 🇷🇴 - Cybersecurity and antivirus software company.
 - [IPXO](https://www.ipxo.com/) 🇱🇹 - The network platform for IPv4 leasing, management, threat intelligence, and IPv6 capabilities.
 - [Gemalto](https://en.wikipedia.org/wiki/Gemalto) 🇳🇱 - smartcards and hardware security modules. 
@@ -249,7 +250,10 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Tutanota](https://tutanota.com/) 🇩🇪 - Encrypted email and calendar service.
 
 ### Marketing Tools
+- [GetResponse](https://www.getresponse.com) 🇵🇱 - Email marketing software.
 - [Keila](https://www.keila.io) 🇩🇪 - Open Source email newsletter tool.
+- [RenderForm](https://renderform.io) 🇵🇱 - Image generation and automation tool.
+
 
 ### Music and Travel
 - [Bolt](https://bolt.eu/) 🇪🇪 - Mobility company offering ride-hailing and other services.
@@ -322,6 +326,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [eTranslation](https://ec.europa.eu/cefdigital/wiki/display/ETRANSLATION/eTranslation) 🇧🇪
 - [ModernMT](https://www.modernmt.com) 🇮🇹 - Adaptive machine translation for enterprises.
 - [Reverso](https://www.reverso.net) 🇫🇷 - Context-aware translation and language tools.
+- [SimpleLocalize](https://simplelocalize.io) 🇵🇱 - Translation management for software projects.
 - [Textshuttle](https://www.textshuttle.ai) 🇨🇭 - AI-driven translation for businesses.
 - [Unbabel](https://unbabel.com/) 🇵🇹
 - [Widn.ai](https://www.widn.ai/) 🇵🇹
@@ -334,6 +339,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Contabo](https://www.contabo.com) 🇩🇪
 - [Hetzner](https://www.hetzner.com) 🇩🇪
 - [Infomaniak VPS](https://www.infomaniak.com/en/hosting/our-cloud-computing-offers) 🇨🇭
+- [Krystal](https://krystal.io/) 🇬🇧
 - [netcup](https://www.netcup.eu) 🇩🇪
 - [Scaleway](https://www.scaleway.com) 🇫🇷
 - [Surfshark](https://surfshark.com/) 🇱🇹
@@ -369,6 +375,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [nilly](https://nilly.com) 🇧🇪 - Privacy-first analytics with simple dashboards.
 - [Offen](https://offen.dev) 🇩🇪 - Self-hosted web analytics with user-first privacy.
 - [Pirsch](https://pirsch.io) 🇩🇪 - Simple, cookie-free, and GDPR-compliant analytics.
+- [Plausible](https://plausible.io) 🇪🇪 - Open-source Google Analytics alternative.
 - [Publytics](https://publytics.com) 🇮🇹 - SEO and performance monitoring analytics.
 - [SEAL Metrics](https://sealmetrics.com) 🇪🇸 - Cookieless web analytics for GDPR compliance.
 - [Sitesights](https://sitesights.com) 🇩🇪 - privacy-friendly analytics.
