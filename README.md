@@ -160,6 +160,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 ### Cybersecurity
 - [ALTCHA](https://altcha.org) 🇨🇿 - Captcha and spam protection.
 - [Bitdefender](https://www.bitdefender.com/) 🇷🇴 - Cybersecurity and antivirus software company.
+- [ESET](https://www.eset.com/) 🇸🇰 - Cybersecurity and antivirus software company.
 - [IPXO](https://www.ipxo.com/) 🇱🇹 - The network platform for IPv4 leasing, management, threat intelligence, and IPv6 capabilities.
 - [Gemalto](https://en.wikipedia.org/wiki/Gemalto) 🇳🇱 - smartcards and hardware security modules. 
 - [OPNsense](https://opnsense.org/) 🇳🇱 -  firewall/router OS and (optionally) a custom computer to run on. 
