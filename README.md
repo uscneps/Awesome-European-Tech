@@ -89,6 +89,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Next Epoch](https://nextepoch.ai/) 🇳🇱 - AI platform for developing and managing AI agents with full data sovereignty.
 - [Timefold](https://timefold.ai/) 🇧🇪 - Planning AI / constraint solver for optimization problems
 - [ZenML](https://zenml.io/) 🇩🇪 - Production-Grade MLOps Systems, handling evaluation, monitoring, and deployment at scale.
+- [Hopsworks](https://hopsworks.ai) 🇸🇪 - AI Lakehouse and MLOps Platform. To Develop, Monitor and Maintain AI Systems.  
 
 ### Browsers
 - [Falkon](https://www.falkon.org/) 🇩🇪 - Lightweight Qt-based browser
