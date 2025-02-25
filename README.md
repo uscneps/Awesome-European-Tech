@@ -272,7 +272,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Magic Earth](https://www.magicearth.com) 🇭🇺
 - [Mapy.cz](https://www.mapy.cz) 🇨🇿
 - [OsmAnd](https://osmand.net) 🇨🇿
-- [Organic Maps](https://organicmaps.app) 🇨🇾
+- [Organic Maps](https://organicmaps.app) 🇪🇪
 - [Sygic GPS Navigation](https://www.sygic.com) 🇸🇰
 - [TomTom GO Navigation](https://www.tomtom.com) 🇳🇱
 
