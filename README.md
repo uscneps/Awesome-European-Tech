@@ -229,12 +229,13 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Ubisoft](https://store.ubisoft.com/) 🇫🇷 - Official digital store for Ubisoft games.
 
 ### Hardware
-- [Arduino](https://www.arduino.cc/) 🇮🇹 - single-board microcontroller
+- [Arduino](https://www.arduino.cc/) 🇮🇹 - Single-board microcontroller.
 - [ASML](https://www.asml.com/) 🇳🇱 - Company specializing in photolithography systems for the semiconductor industry.
 - [Axelera](https://www.axelera.ai) 🇳🇱 - AI acceleration hardware for edge computing.
+- [Kalray](https://www.kalrayinc.com/) 🇫🇷 - Company developing processors for data centers and AI.
+- [Olimex](https://www.olimex.com/) 🇧🇬 - Development tools, boards, and programmers for the embedded market.
 - [Raspberry Pi](https://www.raspberrypi.com/) 🇬🇧 - Affordable single-board computers for DIY projects.
 - [Recogni](https://www.recogni.com/) 🇩🇪 - Company focusing on AI-powered vision processing for autonomous systems.
-- [Kalray](https://www.kalrayinc.com/) 🇫🇷 - Company developing processors for data centers and AI.
 - [Sipearl](https://www.sipearl.com/) 🇫🇷 - Company developing microprocessors for high-performance computing (HPC), particularly for the European Processor Initiative (EPI).
 
 ### IDEs
