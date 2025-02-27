@@ -331,7 +331,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [ModernMT](https://www.modernmt.com) 🇮🇹 - Adaptive machine translation for enterprises.
 - [Reverso](https://www.reverso.net) 🇫🇷 - Context-aware translation and language tools.
 - [SimpleLocalize](https://simplelocalize.io) 🇵🇱 - Translation management for software projects.
-- [Textshuttle](https://www.textshuttle.ai) 🇨🇭 - AI-driven translation for businesses.
+- [Supertext](https://www.supertext.com) (formerly TextShuttle) 🇨🇭 - AI-driven translation for businesses.
 - [Unbabel](https://unbabel.com/) 🇵🇹
 - [Widn.ai](https://www.widn.ai/) 🇵🇹
 
