@@ -106,6 +106,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [OVHcloud CDN](https://www.ovhcloud.com/en/cdn/) 🇫🇷
 
 ### Cloud
+- [84codes](https://www.84codes.com/) 🇸🇪 - Cloud hosting focused on RabbitMQ and LavinMQ.
 - [Aruba](https://www.aruba.it) 🇮🇹 - Cloud hosting and data center services.
 - [copyparty](https://github.com/9001/copyparty) 🇳🇴 - Self-hosted file-sharing and file-transfer server.
 - [Cozy](https://www.cozy.io) 🇫🇷 - Privacy-first personal cloud for data management.
@@ -124,8 +125,8 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Open Telekom Cloud](https://open-telekom-cloud.com) 🇩🇪 - Enterprise cloud services by Deutsche Telekom.
 - [OVHcloud](https://www.ovhcloud.com) 🇫🇷 - Global cloud provider with bare-metal servers.
 - [pCloud](https://www.pcloud.com/) 🇨🇭 - Lifetime encrypted cloud storage plans.
-- [Proton Drive](https://www.proton.me/drive) 🇨🇭 - Secure cloud storage from Proton.
 - [Peergos](https://peergos.org/) 🇬🇧 - A p2p, secure file storage, social network and application protocol
+- [Proton Drive](https://www.proton.me/drive) 🇨🇭 - Secure cloud storage from Proton.
 - [Scaleway](https://www.scaleway.com) 🇫🇷 - Developer-friendly cloud and bare-metal solutions.
 - [Seeweb](https://www.seeweb.it) 🇮🇹 - High-performance Italian cloud hosting.
 - [STACKIT](https://www.stackit.de) 🇩🇪 - Cloud platform for businesses.
