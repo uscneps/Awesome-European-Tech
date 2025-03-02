@@ -164,9 +164,10 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Bitdefender](https://www.bitdefender.com/) 🇷🇴 - Cybersecurity and antivirus software company.
 - [ESET](https://www.eset.com/) 🇸🇰 - Cybersecurity and antivirus software company.
 - [IPXO](https://www.ipxo.com/) 🇱🇹 - The network platform for IPv4 leasing, management, threat intelligence, and IPv6 capabilities.
-- [Gemalto](https://en.wikipedia.org/wiki/Gemalto) 🇳🇱 - smartcards and hardware security modules. 
-- [OPNsense](https://opnsense.org/) 🇳🇱 -  firewall/router OS and (optionally) a custom computer to run on. 
-- [Mikrotik](https://mikrotik.com/) 🇱🇻 - network equipment (routers, switches). 
+- [Gemalto](https://en.wikipedia.org/wiki/Gemalto) 🇳🇱 - Smartcards and hardware security modules. 
+- [OPNsense](https://opnsense.org/) 🇳🇱 -  Firewall/router OS and (optionally) a custom computer to run on. 
+- [Mikrotik](https://mikrotik.com/) 🇱🇻 - Network equipment (routers, switches).
+- [Pareto Security](https://paretosecurity.com/) 🇸🇮 - Free apps to maintain a basic security hygiene with optional centralized monitoring.
 
 ### Database Management Systems
 - [DuckDB](https://duckdb.org/) 🇳🇱 - An in-process SQL OLAP database management system.
