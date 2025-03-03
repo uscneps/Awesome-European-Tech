@@ -200,6 +200,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [inwx](https://www.inwx.com) 🇩🇪
 - [IONOS domains](https://www.ionos.com) 🇩🇪
 - [netim](https://www.netim.com) 🇫🇷
+- [Netsite](https://www.netsite.dk) 🇩🇰
 - [Openprovider](https://www.openprovider.com) 🇳🇱
 - [OVHcloud Domains](https://www.ovhcloud.com) 🇫🇷
 - [United Domains](https://www.uniteddomains.com) 🇩🇪
