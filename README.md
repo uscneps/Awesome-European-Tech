@@ -291,6 +291,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [UBports (Ubuntu Touch)](https://ubports.com/) 🇩🇪 - Mobile OS based on Ubuntu.
 
 ### Password manager services
+- [Dashlane](https://www.dashlane.com) 🇫🇷
 - [heylogin](https://www.heylogin.com) 🇩🇪
 - [Hypervault](https://www.hypervault.com) 🇧🇪
 - [Padloc](https://padloc.app) 🇩🇪
