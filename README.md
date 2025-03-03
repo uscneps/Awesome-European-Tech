@@ -59,6 +59,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [DNS](#dns)
 - [Domain Name Registrars](#domain-name-registrars)
 - [E-commerce Platforms](#e-commerce-platforms)
+- [File Sharing](#file-sharing)
 - [FinTech](#fintech)
 - [Gaming Projects](#gaming-projects)
 - [Hardware](#hardware)
@@ -214,6 +215,12 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Shoperb](https://www.shoperb.com/) 🇵🇱 -  e-commerce platform.
 - [Vinted](https://www.vinted.com/) 🇱🇹 - An online marketplace for second-hand fashion.
 - [Wolt](https://wolt.com/) 🇫🇮 - Food delivery service. (Now owned by US-based DoorDash.)
+
+### File Sharing
+- [Transfer.zip](https://transfer.zip/) 🇸🇪 - Open-source end-to-end encrypted file transfers, hosted in the EU.
+- [FileMail](https://filemail.com/) 🇳🇴 - Send large files up to 5GB for free.
+- [WeTransfer](https://wetransfer.com/) 🇳🇱 - Send large files fast.
+- [Sprend](https://sprend.com/) 🇸🇪 - Send large files for free online.
 
 ### FinTech
 - [Adyen](https://www.adyen.com/) 🇳🇱 - Global payment processing for businesses.
