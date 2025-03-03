@@ -46,7 +46,7 @@ Thank you for your contributions! Together, we can strengthen the European tech 
 </a>
 
 <!---
-Made with [contrib.rocks](https://contrib.rocks). -> for future udpates
+Made with [contrib.rocks](https://contrib.rocks). -> for future updates
 -->
 ---
 
