@@ -309,6 +309,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Joplin](https://joplinapp.org/) 🇫🇷 - Note-taking app with sync and encryption.
 - [LibreOffice](https://www.libreoffice.org/) 🇩🇪 - Free and open-source office suite.
 - [OnlyOffice](https://www.onlyoffice.com/) 🇱🇻 - Collaborative office suite for teams.
+- [ReadWorks](https://www.readworks.app) 🇩🇪 - Free and open-source eDiscovery solution
 
 ### Quantum Computing
 - [QBLOX](https://www.qblox.com/) 🇳🇱 - Qubit agnostic control electronics.
