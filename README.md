@@ -244,6 +244,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 ### IDEs
 - [BlueJ](https://www.bluej.org/) 🇬🇧 - Java IDE for education and beginners.
 - [Geany](https://www.geany.org/) 🇩🇪 - Lightweight IDE for multiple programming languages.
+- [Luna Park](https://luna-park.app/) 🇫🇷 - Visual scripting IDE for web development.
 - [JetBrains](https://www.jetbrains.com/) 🇨🇿 - Developer tools and IDEs for efficient coding.
 
 ### Mail Providers
