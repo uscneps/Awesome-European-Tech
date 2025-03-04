@@ -53,9 +53,11 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Cloud](#cloud)
 - [Communication Tools](#communication-tools)
 - [Crowdfunding Platforms](#crowdfunding-platforms)
+- [Customer Data Platforms](#customer-data-platforms)
 - [Cybersecurity](#cybersecurity)
 - [Database Management Systems](#database-management-systems)
 - [Design and Creative Tools](#design-and-creative-tools)
+- [Digital Experience Platforms](#digital-experience-platforms)
 - [DNS](#dns)
 - [Domain Name Registrars](#domain-name-registrars)
 - [E-commerce Platforms](#e-commerce-platforms)
@@ -70,6 +72,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Network Tools and Apps](#network-tools-and-apps)
 - [Operating Systems (OS)](#operating-systems-os)
 - [Password Manager Services](#password-manager-services)
+- [Product Information Management](#product-information-management)
 - [Productivity Tools](#productivity-tools)
 - [Search Engine](#search-engine)
 - [Sustainability and Recycling](#sustainability-and-recycling)
@@ -159,6 +162,9 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Give&Fund](https://www.giveandfund.com) 🇬🇷 - Easy-to-use and safe crowdfunding platform that offers you a better way to raise money online.
 - [RaiseNow](https://www.raisenow.com) 🇨🇭 - Powerful donation platform for nonprofits of all sizes.
 
+### Customer Data Platforms
+- [Raptor CDP](https://www.raptorservices.com/customer-data-platform/) 🇩🇰 - A Customer Data Platform (CDP) is a single operational platform that unifies data and activates it across all channels in your tech stack.
+
 ### Cybersecurity
 - [ALTCHA](https://altcha.org) 🇨🇿 - Captcha and spam protection.
 - [Bitdefender](https://www.bitdefender.com/) 🇷🇴 - Cybersecurity and antivirus software company.
@@ -179,6 +185,9 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [VectorStyler](https://www.vectorstyler.com/) 🇭🇺 - vector graphics editor.
 - [Photopea](https://www.photopea.com/) 🇨🇿 - online photo editor.
 - [Penpot](https://penpot.app/) 🇪🇸 - Open-source design tool that bridges the gap between designers and developers.
+
+### Digital Experience Platforms
+- [Ibexa DXP](https://ibexa.co) 🇳🇴 - A composable end-to-end DXP that helps companies transform your complexity into competitive advantage by creating engaging digital experiences.
 
 ### DNS
 - [Bunny DNS](https://bunny.net/dns) 🇸🇮
@@ -303,6 +312,9 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [pCloud Pass](https://www.pcloud.com/pass) 🇨🇭
 - [Proton Pass](https://proton.me/pass) 🇨🇭
 - [uniqkey](https://www.uniqkey.com) 🇩🇰
+
+### Product Information Management
+- [Quable](https://www.quable.com/en) 🇫🇷 - PIM solution for product data management
 
 ### Productivity Tools
 - [AnyType](https://anytype.io) 🇨🇭 - Open source, end-to-end encrypted alternative to Notion.
