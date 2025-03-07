@@ -241,6 +241,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Revolut](https://www.revolut.com/) 🇬🇧 - Digital banking and currency exchange app.
 - [Scalable Capital](https://scalable.capital/) 🇩🇪 - Fintech company specializing in digital wealth management and brokerage services.
 - [Smartbill](https://www.smartbill.ro/) 🇷🇴 - Fintech company offering billing solutions.
+- [Stancer](https://stancer.com/) 🇫🇷 - Simple payment solution at low prices.
 - [Starling Bank](https://www.starlingbank.com/) 🇬🇧 - Digital challenger bank.
 - [Wise (ex TransferWise)](https://wise.com/) 🇬🇧 - Low-cost international money transfers.
 
