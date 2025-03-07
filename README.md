@@ -233,6 +233,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 
 ### FinTech
 - [Adyen](https://www.adyen.com/) 🇳🇱 - Global payment processing for businesses.
+- [Alma](https://almapay.com/) 🇫🇷 - BNPL payment solution alternative to Scalapay.
 - [bunq](https://www.bunq.com/) 🇳🇱 - Mobile-first bank.
 - [FintechOS](https://www.fintechos.com/) 🇷🇴 - Company providing digital transformation for financial institutions.
 - [Klarna](https://www.klarna.com/) 🇸🇪 - Buy now, pay later shopping solutions.
