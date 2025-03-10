@@ -183,7 +183,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 ### Design and Creative Tools
 - [Blender Foundation](https://www.blender.org/) 🇳🇱 - Open-source 3D creation suite for modeling, animation, and more.
 - [Flowbite](https://flowbite.com) 🇷🇴 - Open-source UI library for web developers and designers.
-- [VectorStyler](https://www.vectorstyler.com/) 🇭🇺 - vector graphics editor.
+- [VectorStyler](https://www.vectorstyler.com/) 🇫🇮 - vector graphics editor.
 - [Photopea](https://www.photopea.com/) 🇨🇿 - online photo editor.
 - [Penpot](https://penpot.app/) 🇪🇸 - Open-source design tool that bridges the gap between designers and developers.
 
@@ -320,7 +320,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Password Depot](https://www.password-depot.com) 🇩🇪
 - [pCloud Pass](https://www.pcloud.com/pass) 🇨🇭
 - [Proton Pass](https://proton.me/pass) 🇨🇭
-- [uniqkey](https://www.uniqkey.com) 🇩🇰
+- [uniqkey](https://www.uniqkey.eu) 🇩🇰
 
 ### Product Information Management
 - [Quable](https://www.quable.com/en) 🇫🇷 - PIM solution for product data management
