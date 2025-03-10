@@ -320,7 +320,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Password Depot](https://www.password-depot.com) 🇩🇪
 - [pCloud Pass](https://www.pcloud.com/pass) 🇨🇭
 - [Proton Pass](https://proton.me/pass) 🇨🇭
-- [uniqkey](https://www.uniqkey.eu) 🇩🇰
+- [uniqkey](https://www.uniqkey.eu/) 🇩🇰
 
 ### Product Information Management
 - [Quable](https://www.quable.com/en) 🇫🇷 - PIM solution for product data management
