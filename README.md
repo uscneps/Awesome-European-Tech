@@ -277,7 +277,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Tutanota](https://tutanota.com/) 🇩🇪 - Encrypted email and calendar service.
 
 ### Marketing Tools
-- [Brevo] (https://www.brevo.com/) 🇫🇷 - Email marketing software and CRM.
+- [Brevo](https://www.brevo.com/) 🇫🇷 - Email marketing software and CRM.
 - [GetResponse](https://www.getresponse.com) 🇵🇱 - Email marketing software.
 - [Keila](https://www.keila.io) 🇩🇪 - Open Source email newsletter tool.
 - [RenderForm](https://renderform.io) 🇵🇱 - Image generation and automation tool.
