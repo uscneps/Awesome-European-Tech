@@ -53,7 +53,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Cloud](#cloud)
 - [Communication Tools](#communication-tools)
 - [Crowdfunding Platforms](#crowdfunding-platforms)
-- [Customer Data Platforms](#customer-data-platforms)
+- [Customer Relationship Management (CRM)](#customer-relationship-management-crm)
 - [Cybersecurity](#cybersecurity)
 - [Database Management Systems](#database-management-systems)
 - [Design and Creative Tools](#design-and-creative-tools)
@@ -163,7 +163,9 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Give&Fund](https://www.giveandfund.com) 🇬🇷 - Easy-to-use and safe crowdfunding platform that offers you a better way to raise money online.
 - [RaiseNow](https://www.raisenow.com) 🇨🇭 - Powerful donation platform for nonprofits of all sizes.
 
-### Customer Data Platforms
+### Customer Relationship Management (CRM)
+- [Atomic CRM](https://marmelab.com/atomic-crm/) 🇫🇷 - Open-source CRM
+- [Brevo](https://www.brevo.com/) 🇫🇷 - Email marketing software and CRM.
 - [Raptor CDP](https://www.raptorservices.com/customer-data-platform/) 🇩🇰 - A Customer Data Platform (CDP) is a single operational platform that unifies data and activates it across all channels in your tech stack.
 
 ### Cybersecurity
