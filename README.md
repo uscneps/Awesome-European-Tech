@@ -212,12 +212,13 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Infomaniak Domains](https://www.infomaniak.com/en/domains) 🇨🇭
 - [inwx](https://www.inwx.com) 🇩🇪
 - [IONOS domains](https://www.ionos.com) 🇩🇪
+- [Mrdomain](https://mrdomain.com) 🇪🇸
 - [netim](https://www.netim.com) 🇫🇷
 - [Netsite](https://www.netsite.dk) 🇩🇰
 - [Openprovider](https://www.openprovider.com) 🇳🇱
 - [OVHcloud Domains](https://www.ovhcloud.com) 🇫🇷
 - [United Domains](https://www.uniteddomains.com) 🇩🇪
-- [Mrdomain](https://mrdomain.com) 🇪🇸
+
 
 ### E-commerce Platforms
 - [Mollie](https://www.mollie.com/) 🇳🇱 - Payment gateway for seamless online transactions.
@@ -373,14 +374,17 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [cloudscale](https://www.cloudscale.ch) 🇨🇭
 - [Combell Cloud](https://www.combell.com/en/cloud) 🇧🇪
 - [Contabo](https://www.contabo.com) 🇩🇪
+- [Clouding.io](https://clouding.io) 🇪🇸
 - [Hetzner](https://www.hetzner.com) 🇩🇪
 - [Infomaniak VPS](https://www.infomaniak.com/en/hosting/our-cloud-computing-offers) 🇨🇭
 - [Krystal](https://krystal.io/) 🇬🇧
 - [netcup](https://www.netcup.eu) 🇩🇪
 - [Scaleway](https://www.scaleway.com) 🇫🇷
+- [Suble.io](https://suble.io/en/vps) 🇩🇰
 - [Surfshark](https://surfshark.com/) 🇱🇹
 - [Tilaa](https://www.tilaa.com) 🇳🇱
 - [V.PS](https://www.v.ps) 🇳🇱
+- [Veesp](https://veesp.com/products/vps/) 🇱🇻 
 - [Virtua.Cloud](https://www.virtua.cloud) 🇫🇷
 - [Webdock](https://www.webdock.io) 🇩🇰
 
