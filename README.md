@@ -416,13 +416,13 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Offen](https://offen.dev) 🇩🇪 - Self-hosted web analytics with user-first privacy.
 - [Pirsch](https://pirsch.io) 🇩🇪 - Simple, cookie-free, and GDPR-compliant analytics.
 - [Plausible](https://plausible.io) 🇪🇪 - Open-source Google Analytics alternative.
-- [Publytics](https://publytics.com) 🇮🇹 - SEO and performance monitoring analytics.
+- [Publytics](https://publytics.net) 🇮🇹 - SEO and performance monitoring analytics.
 - [SEAL Metrics](https://sealmetrics.com) 🇪🇸 - Cookieless web analytics for GDPR compliance.
 - [Sitesights](https://sitesights.com) 🇩🇪 - privacy-friendly analytics.
 - [Stormly](https://stormly.com) 🇳🇱 - AI-powered business intelligence platform.
 - [Swetrix](https://swetrix.com) 🇺🇦 - Lightweight analytics with real-time tracking.
 - [TelemetryDeck](https://telemetrydeck.com) 🇩🇪 - Privacy-first telemetry for apps.
 - [tinylytics](https://tinylytics.app) 🇳🇱 - Simple web analytics for indie developers.
-- [Vantevo](https://vantevo.com) 🇮🇹 - Analytics with real-time insights.
+- [Vantevo](https://vantevo.io) 🇮🇹 - Analytics with real-time insights.
 - [Visitor Analytics](https://www.visitor-analytics.io) 🇷🇴 - Website analytics and behavior tracking.
 - [Wide Angle Analytics](https://wideangle.co) 🇵🇱 - Privacy-first analytics with EU data hosting.
