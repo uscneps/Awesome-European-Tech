@@ -224,8 +224,9 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Mollie](https://www.mollie.com/) 🇳🇱 - Payment gateway for seamless online transactions.
 - [Omnisend](https://www.omnisend.com/) 🇱🇹 - An e-commerce marketing automation platform.
 - [PrestaShop](https://www.prestashop.com/) 🇫🇷 - Open-source e-commerce platform.
-- [Shopware](https://www.shopware.com/) 🇩🇪 - Modern e-commerce solutions for businesses.
 - [Shoperb](https://www.shoperb.com/) 🇵🇱 -  e-commerce platform.
+- [Shopware](https://www.shopware.com/) 🇩🇪 - Modern e-commerce solutions for businesses.
+- [Sylius](https://sylius.com/) 🇵🇱 - e-commerce framework for creating shopping experiences.
 - [Vinted](https://www.vinted.com/) 🇱🇹 - An online marketplace for second-hand fashion.
 - [Wolt](https://wolt.com/) 🇫🇮 - Food delivery service. (Now owned by US-based DoorDash.)
 
@@ -332,6 +333,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 
 ### Productivity Tools
 - [AnyType](https://anytype.io) 🇨🇭 - Open source, end-to-end encrypted alternative to Notion.
+- [Bunnyshell](https://www.bunnyshell.com/) 🇷🇴 - Environments as a Service platform for Kubernetes.
 - [CryptPad](https://cryptpad.fr/) 🇫🇷 - End-to-end encrypted collaboration suite.
 - [Formbricks](https://formbricks.com/) 🇩🇪 - Open-source survey and feedback tool.
 - [Joplin](https://joplinapp.org/) 🇫🇷 - Note-taking app with sync and encryption.
@@ -361,16 +363,19 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 ### Translation services
 - [DeepL](https://www.deepl.com) 🇩🇪 - AI-powered translation with high accuracy.
 - [eTranslation](https://ec.europa.eu/cefdigital/wiki/display/ETRANSLATION/eTranslation) 🇧🇪
+- [Loco](https://localise.biz/) 🇬🇧 - Loco helps you manage and integrate translations into your software.
 - [ModernMT](https://www.modernmt.com) 🇮🇹 - Adaptive machine translation for enterprises.
 - [Reverso](https://www.reverso.net) 🇫🇷 - Context-aware translation and language tools.
 - [SimpleLocalize](https://simplelocalize.io) 🇵🇱 - Translation management for software projects.
 - [Supertext](https://www.supertext.com) (formerly TextShuttle) 🇨🇭 - AI-driven translation for businesses.
 - [Unbabel](https://unbabel.com/) 🇵🇹
+- [Weblate]() 🇬🇧 - Web-based continuous localization.
 - [Widn.ai](https://www.widn.ai/) 🇵🇹
 
 ### VPS
 - [AlphaVPS](https://www.alphavps.com) 🇧🇬
 - [Aruba Cloud](https://www.arubacloud.com) 🇮🇹
+- [Cloudify](https://cloudify.ro) 🇷🇴
 - [cloudscale](https://www.cloudscale.ch) 🇨🇭
 - [Combell Cloud](https://www.combell.com/en/cloud) 🇧🇪
 - [Contabo](https://www.contabo.com) 🇩🇪
