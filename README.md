@@ -8,6 +8,9 @@
     <a href="https://awesome.re">
       <img alt="Awesome List Badge" src="https://awesome.re/badge.svg" />
     </a>
+    <a href="https://www.trackawesomelist.com/uscneps/Awesome-European-Tech/">
+      <img alt="Track Awesome List" src="https://www.trackawesomelist.com/badge.svg" />
+    </a>
     <a href="https://github.com/uscneps/Awesome-European-Tech/blob/main/LICENSE">
       <img alt="GitHub License" src="https://img.shields.io/github/license/uscneps/Awesome-European-Tech" />
     </a>
@@ -16,6 +19,7 @@
     </a>
   </p>
 </div>
+
 
 ## Overview
 
