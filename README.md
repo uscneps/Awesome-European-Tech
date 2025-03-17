@@ -377,25 +377,38 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Widn.ai](https://www.widn.ai/) 🇵🇹
 
 ### VPS
+- [Albahost](https://www.albahost.net/category/virtual-servers-vds-vps) 🇦🇱
 - [AlphaVPS](https://www.alphavps.com) 🇧🇬
+- [Alwyzon](https://www.alwyzon.com/en/virtual-servers) 🇦🇹
 - [Aruba Cloud](https://www.arubacloud.com) 🇮🇹
+- [Avoro](https://avoro.eu/en/vps) 🇩🇪
 - [Cloudify](https://cloudify.ro) 🇷🇴
+- [Clouding.io](https://clouding.io) 🇪🇸
 - [cloudscale](https://www.cloudscale.ch) 🇨🇭
 - [Combell Cloud](https://www.combell.com/en/cloud) 🇧🇪
 - [Contabo](https://www.contabo.com) 🇩🇪
-- [Clouding.io](https://clouding.io) 🇪🇸
+- [Gigas](https://gigas.com/cloud-vps) 🇪🇸
+- [Ginernet](https://ginernet.com) 🇪🇸
 - [Hetzner](https://www.hetzner.com) 🇩🇪
+- [Ikoula](https://www.ikoula.com/en/vps/linux) 🇫🇷
 - [Infomaniak VPS](https://www.infomaniak.com/en/hosting/our-cloud-computing-offers) 🇨🇭
 - [Krystal](https://krystal.io/) 🇬🇧
+- [Melbicom](https://www.melbicom.net/virtualserver/) 🇱🇹
+- [Mivocloud](https://mivocloud.com/ssd-kvm-vps) 🇲🇩
 - [netcup](https://www.netcup.eu) 🇩🇪
+- [Phpfriends](https://php-friends.de/vserver-ssd) 🇩🇪
+- [Pulseberg](https://pulseheberg.com/cloud/vps-linux) 🇫🇷
 - [Scaleway](https://www.scaleway.com) 🇫🇷
 - [Suble.io](https://suble.io/en/vps) 🇩🇰
 - [Surfshark](https://surfshark.com/) 🇱🇹
 - [Tilaa](https://www.tilaa.com) 🇳🇱
+- [Trabia](https://www.trabia.com/virtual-server.84-0.html) 🇲🇩
 - [V.PS](https://www.v.ps) 🇳🇱
 - [Veesp](https://veesp.com/products/vps/) 🇱🇻 
 - [Virtua.Cloud](https://www.virtua.cloud) 🇫🇷
+- [vpsag](https://vpsag.com) 🇧🇬
 - [Webdock](https://www.webdock.io) 🇩🇰
+- [Yourserver.se](https://yourserver.se/linux) 🇱🇻 
 
 ### VPN
 - [AirVPN](https://www.airvpn.org) 🇮🇹 - Privacy-focused VPN with open-source ethos.
