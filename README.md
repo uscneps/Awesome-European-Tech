@@ -69,6 +69,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [FinTech](#fintech)
 - [Gaming Projects](#gaming-projects)
 - [Hardware](#hardware)
+- [Hardware](#human-resources)
 - [IDEs](#ides)
 - [Mail Providers](#mail-providers)
 - [Marketing Tools](#marketing-tools)
@@ -269,6 +270,9 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Recogni](https://www.recogni.com/) 🇩🇪 - Company focusing on AI-powered vision processing for autonomous systems.
 - [Sipearl](https://www.sipearl.com/) 🇫🇷 - Company developing microprocessors for high-performance computing (HPC), particularly for the European Processor Initiative (EPI).
 
+### Human Resources
+- [TalentoHQ](https://www.talentohq.com/) 🇪🇸 - Talent management and human resources application. Comprehensive and affordable for companies of any size.
+  
 ### IDEs
 - [BlueJ](https://www.bluej.org/) 🇬🇧 - Java IDE for education and beginners.
 - [Geany](https://www.geany.org/) 🇩🇪 - Lightweight IDE for multiple programming languages.
