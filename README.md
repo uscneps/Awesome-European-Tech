@@ -271,7 +271,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Sipearl](https://www.sipearl.com/) 🇫🇷 - Company developing microprocessors for high-performance computing (HPC), particularly for the European Processor Initiative (EPI).
 
 ### Human Resources
-- [TalentoHQ](https://talentohq.com/) 🇪🇸 - Talent management and human resources application. Comprehensive and affordable for companies of any size.
+- [TalentoHQ](https://talentohq.com/) 🇪🇸 - Talent management and human resources solution.
   
 ### IDEs
 - [BlueJ](https://www.bluej.org/) 🇬🇧 - Java IDE for education and beginners.
