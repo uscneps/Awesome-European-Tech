@@ -69,7 +69,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [FinTech](#fintech)
 - [Gaming Projects](#gaming-projects)
 - [Hardware](#hardware)
-- [Hardware](#human-resources)
+- [Human Resources](#human-resources)
 - [IDEs](#ides)
 - [Mail Providers](#mail-providers)
 - [Marketing Tools](#marketing-tools)
