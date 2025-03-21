@@ -23,7 +23,7 @@
 
 ## Overview
 
-**An up-to-date list of recommended European projects and companies, curated by the community to support and strengthen the European tech ecosystem, specifically for users interested in privacy and sustainability.**
+**An up-to-date, community-driven list of awesome European tech alternatives!  all focused on privacy, sustainability, and innovation. The goal is to support European projects and companies (compliant with GDPR, UK GDPR, and the Swiss FADP), helping to strengthen the European tech ecosystem.**
 
 European software and companies often adhere to unique standards that provide significant benefits to users. These standards not only enhance user experience but also set a global benchmark for innovation, privacy, and sustainability. For example:
 
