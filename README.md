@@ -401,7 +401,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Melbicom](https://www.melbicom.net/virtualserver/) 🇱🇹
 - [Mivocloud](https://mivocloud.com/ssd-kvm-vps) 🇲🇩
 - [netcup](https://www.netcup.eu) 🇩🇪
-- [OVHcloud](https://www.ovhcloud.com) 🇫🇷
+- [OVHcloud](https://www.ovhcloud.com/en/vps/) 🇫🇷
 - [Phpfriends](https://php-friends.de/vserver-ssd) 🇩🇪
 - [Pulseberg](https://pulseheberg.com/cloud/vps-linux) 🇫🇷
 - [Scaleway](https://www.scaleway.com) 🇫🇷
