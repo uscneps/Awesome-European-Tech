@@ -384,11 +384,10 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Widn.ai](https://www.widn.ai/) 🇵🇹
 
 ### Uptime Monitoring
-- [Uptimerobot.com](https://uptimerobot.com/pricing) 🇸🇰 - 
-- [Phare.io](https://phare.io/pricing) 🇸🇮 - 
-- [Monibot.io](https://monibot.io/#pricing) 🇩🇪 - 
-- [Hyperping.com](https://hyperping.com/pricing) 🇫🇷 - 
-
+- [Uptimerobot.com](https://uptimerobot.com/pricing) 🇸🇰
+- [Phare.io](https://phare.io/pricing) 🇸🇮
+- [Monibot.io](https://monibot.io/#pricing) 🇩🇪
+- [Hyperping.com](https://hyperping.com/pricing) 🇫🇷
 
 ### VPS
 - [Albahost](https://www.albahost.net/category/virtual-servers-vds-vps) 🇦🇱
