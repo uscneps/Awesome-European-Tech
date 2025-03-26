@@ -83,6 +83,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Search Engine](#search-engine)
 - [Sustainability and Recycling](#sustainability-and-recycling)
 - [Translation Services](#translation-services)
+- [Uptime Monitoring](#Uptime-Monitoring)
 - [VPS](#vps)
 - [VPN](#vpn)
 - [Web Analytics](#web-analytics)
@@ -381,6 +382,12 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Unbabel](https://unbabel.com/) 🇵🇹
 - [Weblate]() 🇬🇧 - Web-based continuous localization.
 - [Widn.ai](https://www.widn.ai/) 🇵🇹
+
+### Uptime Monitoring
+- [Uptimerobot.com](https://uptimerobot.com/pricing) 🇸🇰
+- [Phare.io](https://phare.io/pricing) 🇸🇮
+- [Monibot.io](https://monibot.io/#pricing) 🇩🇪
+- [Hyperping.com](https://hyperping.com/pricing) 🇫🇷
 
 ### VPS
 - [Albahost](https://www.albahost.net/category/virtual-servers-vds-vps) 🇦🇱
