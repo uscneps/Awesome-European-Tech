@@ -434,7 +434,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [OctoVPN](https://www.octovpn.com) 🇩🇰 - High-performance gaming VPN with DDoS protection.
 - [PrivateVPN](https://privatevpn.com/) 🇸🇪 - VPN service with port forwarding features.
 - [ProtonVPN](https://protonvpn.com/) 🇨🇭 - VPN with built-in adblocker, uses custom Stealth protocol.
-- [Unlocator VPN](https://unlocator.com) 🇩🇰 - Fast and Secure VPN with utlimate streaming freedom.
+- [Unlocator VPN](https://unlocator.com) 🇩🇰 - Fast and secure VPN with ultimate streaming freedom.
 - [Xeovo](https://www.xeovo.com) 🇫🇮 - Privacy-focused VPN with anonymous payments.
 
 ### Web Analytics
