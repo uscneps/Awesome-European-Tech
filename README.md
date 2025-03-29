@@ -258,7 +258,6 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 
 ### Gaming Projects
 - [GOG](https://www.gog.com/) 🇵🇱 - Digital game shop with DRM-free games only.
-- [Ubisoft](https://store.ubisoft.com/) 🇫🇷 - Official digital store for Ubisoft games.
 
 ### Hardware
 - [Arduino](https://www.arduino.cc/) 🇮🇹 - Single-board microcontroller.
