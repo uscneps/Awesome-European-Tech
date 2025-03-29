@@ -14,9 +14,6 @@
     <a href="https://github.com/uscneps/Awesome-European-Tech/blob/main/LICENSE">
       <img alt="GitHub License" src="https://img.shields.io/github/license/uscneps/Awesome-European-Tech" />
     </a>
-    <a href="https://github.com/sponsors/uscneps">
-      <img alt="GitHub Sponsors" src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?logo=github-sponsors" />
-    </a>
   </p>
 </div>
 
