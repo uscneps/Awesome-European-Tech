@@ -452,3 +452,6 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Vantevo](https://vantevo.io) 🇮🇹 - Analytics with real-time insights.
 - [Visitor Analytics](https://www.visitor-analytics.io) 🇷🇴 - Website analytics and behavior tracking.
 - [Wide Angle Analytics](https://wideangle.co) 🇵🇱 - Privacy-first analytics with EU data hosting.
+
+---
+[![Star History Chart](https://api.star-history.com/svg?repos=uscneps/Awesome-European-Tech&type=Date)](https://www.star-history.com/#uscneps/Awesome-European-Tech&Date)
