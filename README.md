@@ -76,7 +76,6 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Music and Travel](#music-and-travel)
 - [Navigation Apps](#navigation-apps)
 - [Network Tools and Apps](#network-tools-and-apps)
-- [Operating Systems (OS)](#operating-systems-os)
 - [Password Manager Services](#password-manager-services)
 - [Product Information Management](#product-information-management)
 - [Productivity Tools](#productivity-tools)
@@ -317,15 +316,6 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 
 ### Network Tools and Apps
 - [IPXO](https://www.ipxo.com/) 🇱🇹 - The network platform for IPv4 leasing, management, threat intelligence, and IPv6 capabilities.
-
-### Operating Systems (OS)
-- [/e/ OS Android](https://e.foundation/) 🇫🇷 - Privacy-focused mobile OS based on Android.
-- [Canonical (Ubuntu)](https://canonical.com/) 🇬🇧 - Ubuntu Linux distribution and services.
-- [CachyOS](https://cachyos.org/) 🇩🇪 - Arch-based Linux distribution.
-- [KDE (Plasma Desktop)](https://kde.org/) 🇩🇪 - Customizable desktop environment for Linux.
-- [Manjaro](https://manjaro.org/) 🇩🇪 - User-friendly Arch-based Linux distribution.
-- [SUSE](https://www.suse.com/) 🇩🇪 - Enterprise-grade Linux distribution.
-- [UBports (Ubuntu Touch)](https://ubports.com/) 🇩🇪 - Mobile OS based on Ubuntu.
 
 ### Password manager services
 - [Dashlane](https://www.dashlane.com) 🇫🇷
