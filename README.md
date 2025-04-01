@@ -138,6 +138,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [STACKIT](https://www.stackit.de) 🇩🇪 - Cloud platform for businesses.
 - [Tresorit](https://tresorit.com/) 🇨🇭 - End-to-end encrypted file sharing for enterprises.
 - [UpCloud](https://www.upcloud.com) 🇫🇮 - High-speed cloud infrastructure with maxIOPS.
+- [noris network AG](https://www.noris.de/en/it-services/cloud-services/) 🇩🇪 - Cloud platforms and services specialized for legally regulated companies.
 
 ### Communication Tools
 - [Alugha](https://alugha.com/) 🇩🇪 - Multilingual video hosting platform.
@@ -408,7 +409,8 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Virtua.Cloud](https://www.virtua.cloud) 🇫🇷
 - [vpsag](https://vpsag.com) 🇧🇬
 - [Webdock](https://www.webdock.io) 🇩🇰
-- [Yourserver.se](https://yourserver.se/linux) 🇱🇻 
+- [Yourserver.se](https://yourserver.se/linux) 🇱🇻
+- [Wavestack](https://wavestack.cloud/) 🇩🇪 - VPS based on [Sovereign Cloud Stack](https://scs.community).
 
 ### VPN
 - [AirVPN](https://www.airvpn.org) 🇮🇹 - Privacy-focused VPN with open-source ethos.
