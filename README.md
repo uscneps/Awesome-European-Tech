@@ -336,6 +336,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Joplin](https://joplinapp.org/) 🇫🇷 - Note-taking app with sync and encryption.
 - [LibreOffice](https://www.libreoffice.org/) 🇩🇪 - Free and open-source office suite.
 - [OnlyOffice](https://www.onlyoffice.com/) 🇱🇻 - Collaborative office suite for teams.
+- [Phonemos](https://www.phonemos.com/) 🇨🇭 - Another European alternative to Notion.
 - [ReadWorks](https://www.readworks.app) 🇩🇪 - Free and open-source eDiscovery solution.
 - [Docs](https://docs.numerique.gouv.fr/) 🇫🇷🇩🇪 - Open-source collaborative note taking, wiki and documentation platform.
 
