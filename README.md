@@ -274,6 +274,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 
 ### Identity and Access Management (IAM)
 - [Quasr](https://quasr.io/) 🇧🇪 - User-centric CIAM platform for developers.
+- [Ory](https://www.ory.sh/) 🇩🇪 - Company developing (C)IAM, OpenID Connect provider, and fine-grained permissions open source solutions.
 
 ### IDEs
 - [BlueJ](https://www.bluej.org/) 🇬🇧 - Java IDE for education and beginners.
