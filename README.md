@@ -68,6 +68,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Hardware](#hardware)
 - [Human Resources](#human-resources)
 - [IDEs](#ides)
+- [Identity and Access Management (IAM)](#identity-and-access-management-iam)
 - [Mail Providers](#mail-providers)
 - [Marketing Tools](#marketing-tools)
 - [Music and Travel](#music-and-travel)
@@ -270,7 +271,9 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 ### Human Resources
 - [TalentoHQ](https://talentohq.com/) 🇪🇸 - Talent management and human resources solution.
 - [Bordful](https://bordful.com) 🇱🇹 - Open source job board software built with Next.js and Airtable.
-  
+
+### Identity and Access Management (IAM)
+
 ### IDEs
 - [BlueJ](https://www.bluej.org/) 🇬🇧 - Java IDE for education and beginners.
 - [Geany](https://www.geany.org/) 🇩🇪 - Lightweight IDE for multiple programming languages.
