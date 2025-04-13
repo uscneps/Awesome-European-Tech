@@ -273,6 +273,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Bordful](https://bordful.com) 🇱🇹 - Open source job board software built with Next.js and Airtable.
 
 ### Identity and Access Management (IAM)
+- [Quasr](https://quasr.io/) 🇧🇪 - User-centric CIAM platform for developers.
 
 ### IDEs
 - [BlueJ](https://www.bluej.org/) 🇬🇧 - Java IDE for education and beginners.
