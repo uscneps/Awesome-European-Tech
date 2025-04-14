@@ -129,6 +129,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Jottacloud](https://www.jottacloud.com) 🇳🇴 - Cloud backup and file storage.
 - [Koofr](https://www.koofr.eu) 🇸🇮 - Secure cloud storage with multi-provider integration.
 - [Nextcloud](https://nextcloud.com/) 🇩🇪 - Self-hosted collaboration and file-sharing platform.
+- [OpenCloud](https://opencloud.eu/) 🇩🇪 - Excellent file management and collaboration for anyone who values ease of use and digital sovereignty.
 - [Open Telekom Cloud](https://open-telekom-cloud.com) 🇩🇪 - Enterprise cloud services by Deutsche Telekom.
 - [OVHcloud](https://www.ovhcloud.com) 🇫🇷 - Global cloud provider with bare-metal servers.
 - [pCloud](https://www.pcloud.com/) 🇨🇭 - Lifetime encrypted cloud storage plans.
