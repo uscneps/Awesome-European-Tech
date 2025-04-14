@@ -107,6 +107,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 ### CDN
 - [Bunny CDN](https://bunnycdn.com) 🇸🇮
 - [CDN77](https://www.cdn77.com/) 🇨🇿 Content delivery network based in the Czech Republic.
+- [Gcore](https://gcore.com/cdn) 🇱🇺
 - [KeyCDN](https://www.keycdn.com) 🇨🇭
 - [Leaseweb CDN](https://www.leaseweb.com/cdn) 🇳🇱
 - [Myra CDN](https://www.myra-security.com/en/cdn) 🇩🇪
@@ -122,6 +123,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Exoscale](https://www.exoscale.com) 🇨🇭 - Scalable cloud infrastructure for developers.
 - [Filen](https://www.filen.io) 🇩🇪 - End-to-end encrypted cloud storage.
 - [Fuga Cloud](https://www.fuga.cloud) 🇳🇱 - OpenStack-based public cloud platform.
+- [Gcore](https://gcore.com/) 🇱🇺 - Global cloud provider with bare-metal servers.
 - [gridscale](https://www.gridscale.io) 🇩🇪 - Flexible IaaS and PaaS solutions.
 - [Infomaniak kDrive](https://www.infomaniak.com/en/kdrive) 🇨🇭 - Cloud storage with collaboration tools.
 - [Internxt](https://www.internxt.com) 🇪🇸 - Decentralized cloud storage prioritizing privacy.
@@ -202,6 +204,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [deSEC](https://www.desec.io) 🇩🇪
 - [EuroDNS DNS](https://www.eurodns.com) 🇱🇺
 - [Exoscale DNS](https://www.exoscale.com/dns) 🇨🇭
+- [Gcore](https://gcore.com/dns) 🇱🇺
 - [Hostinger](https://www.hostinger.com/) 🇱🇹
 - [RcodeZero](https://www.rcodezero.at) 🇦🇹
 - [Scaleway DNS](https://www.scaleway.com/dns) 🇫🇷
