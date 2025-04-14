@@ -217,6 +217,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [inwx](https://www.inwx.com) 🇩🇪
 - [IONOS domains](https://www.ionos.com) 🇩🇪
 - [Mrdomain](https://mrdomain.com) 🇪🇸
+- [netcup](https://netcup.de) 🇩🇪
 - [netim](https://www.netim.com) 🇫🇷
 - [Netsite](https://www.netsite.dk) 🇩🇰
 - [Openprovider](https://www.openprovider.com) 🇳🇱
@@ -284,6 +285,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [JetBrains](https://www.jetbrains.com/) 🇨🇿 - Developer tools and IDEs for efficient coding.
 
 ### Mail Providers
+- [Dismail](https://dismail.de) 🇩🇪 - Secure and private mailboxes with subaddressing support.
 - [Disroot](https://disroot.org/en/services/email) 🇳🇱 - Privacy-focused email with open-source tools.
 - [Mailbox.org](https://mailbox.org/) 🇩🇪 - Secure email with ad-free productivity suites.
 - [Mailfence](https://www.mailfence.com/) 🇧🇪 - Encrypted email and document collaboration.
@@ -399,6 +401,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Ikoula](https://www.ikoula.com/en/vps/linux) 🇫🇷
 - [Infomaniak VPS](https://www.infomaniak.com/en/hosting/our-cloud-computing-offers) 🇨🇭
 - [Krystal](https://krystal.io/) 🇬🇧
+- [Manitu](https://www.manitu.de/) 🇩🇪
 - [Melbicom](https://www.melbicom.net/virtualserver/) 🇱🇹
 - [Mivocloud](https://mivocloud.com/ssd-kvm-vps) 🇲🇩
 - [netcup](https://www.netcup.eu) 🇩🇪
@@ -409,6 +412,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Suble.io](https://suble.io/en/vps) 🇩🇰
 - [Surfshark](https://surfshark.com/) 🇱🇹
 - [Tilaa](https://www.tilaa.com) 🇳🇱
+- [TLDHost](https://www.tldhost.de/) 🇩🇪
 - [Trabia](https://www.trabia.com/virtual-server.84-0.html) 🇲🇩
 - [V.PS](https://www.v.ps) 🇳🇱
 - [Veesp](https://veesp.com/products/vps/) 🇱🇻 
