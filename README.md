@@ -415,7 +415,6 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Pulseberg](https://pulseheberg.com/cloud/vps-linux) 🇫🇷
 - [Scaleway](https://www.scaleway.com) 🇫🇷
 - [Suble.io](https://suble.io/en/vps) 🇩🇰
-- [Surfshark](https://surfshark.com/) 🇱🇹
 - [Tilaa](https://www.tilaa.com) 🇳🇱
 - [TLDHost](https://www.tldhost.de/) 🇩🇪
 - [Trabia](https://www.trabia.com/virtual-server.84-0.html) 🇲🇩
@@ -437,6 +436,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [OctoVPN](https://www.octovpn.com) 🇩🇰 - High-performance gaming VPN with DDoS protection.
 - [PrivateVPN](https://privatevpn.com/) 🇸🇪 - VPN service with port forwarding features.
 - [ProtonVPN](https://protonvpn.com/) 🇨🇭 - VPN with built-in adblocker, uses custom Stealth protocol.
+- [Surfshark](https://surfshark.com/) 🇱🇹
 - [Unlocator VPN](https://unlocator.com) 🇩🇰 - Fast and secure VPN with ultimate streaming freedom.
 - [Xeovo](https://www.xeovo.com) 🇫🇮 - Privacy-focused VPN with anonymous payments.
 
