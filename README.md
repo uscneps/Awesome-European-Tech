@@ -305,6 +305,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [GetResponse](https://www.getresponse.com) 🇵🇱 - Email marketing software.
 - [Keila](https://www.keila.io) 🇩🇪 - Open Source email newsletter tool.
 - [RenderForm](https://renderform.io) 🇵🇱 - Image generation and automation tool.
+- [Ambassify](https://www.ambassify.com) 🇧🇪 - Employee advocacy tool.
 
 
 ### Music and Travel
