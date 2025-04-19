@@ -18,5 +18,5 @@ jobs:
       - name: Check for broken links
         uses: lycheeverse/lychee-action@v2
         with:
-          args: README.md --accept "100..=103,200..=299,403"
+          args: README.md --accept "100..=103,200..=299,403" --timeout 60
           fail: true
