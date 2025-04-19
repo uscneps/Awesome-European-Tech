@@ -39,7 +39,7 @@ European software and companies often adhere to unique standards that provide si
 
 This project is not about excluding non-European products or tools. There are countless exceptional global solutions that are widely used and appreciated. The purpose of this list is to highlight and support European startups and projects that excel in areas like privacy, sustainability, and innovation. By doing so, we aim to strengthen the European tech ecosystem while fostering collaboration and inclusivity across borders. Together, we can contribute to a more diverse, resilient, and interconnected global tech landscape.
 
-Before exploring the list, we encourage you to visit the website that inspired this project: [European Alternatives](https://european-alternatives.eu/). 
+Before exploring the list, we encourage you to visit the website that inspired this project: [European Alternatives](https://european-alternatives.eu/).
 
 ---
 ## Contribute
@@ -96,7 +96,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Next Epoch](https://nextepoch.ai/) 🇳🇱 - AI platform for developing and managing AI agents with full data sovereignty.
 - [Timefold](https://timefold.ai/) 🇧🇪 - Planning AI / constraint solver for optimization problems
 - [ZenML](https://zenml.io/) 🇩🇪 - Production-Grade MLOps Systems, handling evaluation, monitoring, and deployment at scale.
-- [Hopsworks](https://hopsworks.ai) 🇸🇪 - AI Lakehouse and MLOps Platform. To Develop, Monitor and Maintain AI Systems.  
+- [Hopsworks](https://hopsworks.ai) 🇸🇪 - AI Lakehouse and MLOps Platform. To Develop, Monitor and Maintain AI Systems.
 
 ### Browsers
 - [Falkon](https://www.falkon.org/) 🇩🇪 - Lightweight Qt-based browser
@@ -110,8 +110,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Gcore](https://gcore.com/cdn) 🇱🇺
 - [KeyCDN](https://www.keycdn.com) 🇨🇭
 - [Leaseweb CDN](https://www.leaseweb.com/cdn) 🇳🇱
-- [Myra CDN](https://www.myra-security.com/en/cdn) 🇩🇪
-- [OVHcloud CDN](https://www.ovhcloud.com/en/cdn/) 🇫🇷
+- [OVHcloud CDN](https://www.ovhcloud.com/en/web-hosting/options/cdn/) 🇫🇷
 
 ### Cloud
 - [84codes](https://www.84codes.com/) 🇸🇪 - Cloud hosting focused on RabbitMQ and LavinMQ.
@@ -141,7 +140,6 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Seeweb](https://www.seeweb.it) 🇮🇹 - High-performance Italian cloud hosting.
 - [STACKIT](https://www.stackit.de) 🇩🇪 - Cloud platform for businesses.
 - [Tresorit](https://tresorit.com/) 🇨🇭 - End-to-end encrypted file sharing for enterprises.
-- [UpCloud](https://www.upcloud.com) 🇫🇮 - High-speed cloud infrastructure with maxIOPS.
 - [noris network AG](https://www.noris.de/en/it-services/cloud-services/) 🇩🇪 - Cloud platforms and services specialized for legally regulated companies.
 
 ### Communication Tools
@@ -180,8 +178,8 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Bitdefender](https://www.bitdefender.com/) 🇷🇴 - Cybersecurity and antivirus software company.
 - [ESET](https://www.eset.com/) 🇸🇰 - Cybersecurity and antivirus software company.
 - [IPXO](https://www.ipxo.com/) 🇱🇹 - The network platform for IPv4 leasing, management, threat intelligence, and IPv6 capabilities.
-- [Gemalto](https://en.wikipedia.org/wiki/Gemalto) 🇳🇱 - Smartcards and hardware security modules. 
-- [OPNsense](https://opnsense.org/) 🇳🇱 -  Firewall/router OS and (optionally) a custom computer to run on. 
+- [Gemalto](https://en.wikipedia.org/wiki/Gemalto) 🇳🇱 - Smartcards and hardware security modules.
+- [OPNsense](https://opnsense.org/) 🇳🇱 -  Firewall/router OS and (optionally) a custom computer to run on.
 - [Mikrotik](https://mikrotik.com/) 🇱🇻 - Network equipment (routers, switches).
 - [Pareto Security](https://paretosecurity.com/) 🇸🇮 - Free apps to maintain a basic security hygiene with optional centralized monitoring.
 
@@ -278,7 +276,6 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Bordful](https://bordful.com) 🇱🇹 - Open source job board software built with Next.js and Airtable.
 
 ### Identity and Access Management (IAM)
-- [Quasr](https://quasr.io/) 🇧🇪 - User-centric CIAM platform for developers.
 - [Ory](https://www.ory.sh/) 🇩🇪 - Company developing (C)IAM, OpenID Connect provider, and fine-grained permissions open source solutions.
 - [Zitadel](https://zitadel.com/) 🇨🇭 - Open-source identity and access management infrastructure.
 
@@ -333,7 +330,6 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Hypervault](https://www.hypervault.com) 🇧🇪
 - [Padloc](https://padloc.app) 🇩🇪
 - [Passbolt](https://www.passbolt.com) 🇫🇷
-- [Password Depot](https://www.password-depot.com) 🇩🇪
 - [pCloud Pass](https://www.pcloud.com/pass) 🇨🇭
 - [Proton Pass](https://proton.me/pass) 🇨🇭
 - [uniqkey](https://www.uniqkey.eu/) 🇩🇰
@@ -356,7 +352,6 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [QBLOX](https://www.qblox.com/) 🇳🇱 - Qubit agnostic control electronics.
 - [Orange Quantum Systems](https://orangeqs.com/) 🇳🇱 - Solutions testing and integration.
 - [QuantWare](https://www.quantware.com/) 🇳🇱 - Design and manufacture of superconducting hardware.
-- [QphoX](https://qphox.eu/) 🇳🇱 - Design and manufacture of optical modems.
 
 ### Search engine
 - [Ecosia](https://www.ecosia.org) 🇩🇪 - Carbon-neutral search engine planting trees.
@@ -373,7 +368,6 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 
 ### Translation services
 - [DeepL](https://www.deepl.com) 🇩🇪 - AI-powered translation with high accuracy.
-- [eTranslation](https://ec.europa.eu/cefdigital/wiki/display/ETRANSLATION/eTranslation) 🇧🇪
 - [Loco](https://localise.biz/) 🇬🇧 - Loco helps you manage and integrate translations into your software.
 - [ModernMT](https://www.modernmt.com) 🇮🇹 - Adaptive machine translation for enterprises.
 - [Reverso](https://www.reverso.net) 🇫🇷 - Context-aware translation and language tools.
@@ -419,7 +413,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [TLDHost](https://www.tldhost.de/) 🇩🇪
 - [Trabia](https://www.trabia.com/virtual-server.84-0.html) 🇲🇩
 - [V.PS](https://www.v.ps) 🇳🇱
-- [Veesp](https://veesp.com/products/vps/) 🇱🇻 
+- [Veesp](https://veesp.com/products/vps/) 🇱🇻
 - [Virtua.Cloud](https://www.virtua.cloud) 🇫🇷
 - [vpsag](https://vpsag.com) 🇧🇬
 - [Webdock](https://www.webdock.io) 🇩🇰
@@ -444,21 +438,16 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Alceris](https://www.alceris.com) 🇫🇷 - AI-driven analytics for web performance and SEO.
 - [Analyzati](https://analyzati.com) 🇪🇸 - Privacy-friendly web analytics for businesses.
 - [Counter](https://counter.dev) 🇳🇱 - Lightweight, open-source web analytics.
-- [digistats](https://digistats.io) 🇩🇪 - Analytics with real-time tracking.
 - [Dreamdata](https://www.dreamdata.io) 🇩🇰 - B2B revenue attribution and data platform.
-- [etracker](https://www.etracker.com) 🇩🇪 - Visitor analytics and heatmaps.
 - [fusedeck](https://fusedeck.com) 🇨🇭 - Swiss real-time tracking and analytics.
-- [Friendly Analytics](https://friendlyanalytics.com) 🇨🇭 - Open-source and privacy-focused analytics.
-- [Insights](https://insights.ai) 🇳🇱 - AI-driven data analytics and reporting.
+- [Friendly Analytics](https://friendly.ch/en/analytics) 🇨🇭 - Open-source and privacy-focused analytics.
 - [Matomo by Stackhero](https://www.stackhero.io) 🇫🇷 - Managed Matomo analytics hosting.
 - [Mouseflow](https://www.mouseflow.com) 🇩🇰 - Session replay and heatmaps for UX analysis.
-- [nilly](https://nilly.com) 🇧🇪 - Privacy-first analytics with simple dashboards.
 - [Offen](https://offen.dev) 🇩🇪 - Self-hosted web analytics with user-first privacy.
 - [Pirsch](https://pirsch.io) 🇩🇪 - Simple, cookie-free, and GDPR-compliant analytics.
 - [Plausible](https://plausible.io) 🇪🇪 - Open-source Google Analytics alternative.
 - [Publytics](https://publytics.net) 🇮🇹 - SEO and performance monitoring analytics.
 - [SEAL Metrics](https://sealmetrics.com) 🇪🇸 - Cookieless web analytics for GDPR compliance.
-- [Sitesights](https://sitesights.com) 🇩🇪 - privacy-friendly analytics.
 - [Stormly](https://stormly.com) 🇳🇱 - AI-powered business intelligence platform.
 - [Swetrix](https://swetrix.com) 🇺🇦 - Lightweight analytics with real-time tracking.
 - [TelemetryDeck](https://telemetrydeck.com) 🇩🇪 - Privacy-first telemetry for apps.
