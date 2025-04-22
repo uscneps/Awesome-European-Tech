@@ -355,6 +355,16 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Orange Quantum Systems](https://orangeqs.com/) 🇳🇱 - Solutions testing and integration.
 - [QuantWare](https://www.quantware.com/) 🇳🇱 - Design and manufacture of superconducting hardware.
 
+### Scientific software
+- [COMSOL Multiphysics](https://www.comsol.com/) 🇩🇪 - Finite element (FEM) analyzer, solver and simulation software
+- [Enterprise Dynamics](https://www.incontrolsim.com/) 🇳🇱 - 2D and 3D Digital Twin Software
+- [FORM](https://www.nikhef.nl/~form/) 🇳🇱 - Open source symbolic manipulation of very big expressions 
+- [GeoGebra](https://www.geogebra.org/) 🇦🇹 -  Interactive online geometry, algebra, statistics and calculus application
+- [MAGMASOFT](https://www.magmasoft.de/) 🇩🇪 - Casting design and simulation
+- [Scilab](https://www.scilab.org/) 🇫🇷 - Open source software for numerical computation 
+- [Tecnomatix Plant Simulation](https://plm.sw.siemens.com/en-US/tecnomatix/)  🇩🇪 - Modelling, simulating and visualizing of production systems
+- [Warteschlangensimulator](https://a-herzog.github.io/Warteschlangensimulator/) 🇩🇪 - Open source event-driven stochastic simulation (DES)
+
 ### Search engine
 - [Ecosia](https://www.ecosia.org) 🇩🇪 - Carbon-neutral search engine planting trees.
 - [Qwant](https://www.qwant.com) 🇫🇷 - Privacy-respecting search engine from France.
