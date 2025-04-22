@@ -459,4 +459,3 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Wide Angle Analytics](https://wideangle.co) 🇵🇱 - Privacy-first analytics with EU data hosting.
 
 ---
-[![Star History Chart](https://api.star-history.com/svg?repos=uscneps/Awesome-European-Tech&type=Date)](https://www.star-history.com/#uscneps/Awesome-European-Tech&Date)
