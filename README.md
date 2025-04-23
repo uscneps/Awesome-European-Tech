@@ -217,7 +217,6 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Combell Domains](https://www.combell.com) 🇧🇪
 - [Gandi](https://www.gandi.net) 🇫🇷
 - [Hostinger Domain](https://www.hostinger.com) 🇱🇹
-- [Hostpoint Domains](https://www.hostpoint.ch) 🇨🇭
 - [Infomaniak Domains](https://www.infomaniak.com/en/domains) 🇨🇭
 - [inwx](https://www.inwx.com) 🇩🇪
 - [IONOS domains](https://www.ionos.com) 🇩🇪
@@ -322,7 +321,6 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Mapy.cz](https://www.mapy.cz) 🇨🇿
 - [OsmAnd](https://osmand.net) 🇨🇿
 - [Organic Maps](https://organicmaps.app) 🇪🇪
-- [Sygic GPS Navigation](https://www.sygic.com) 🇸🇰
 - [TomTom GO Navigation](https://www.tomtom.com) 🇳🇱
 
 ### Network Tools and Apps
