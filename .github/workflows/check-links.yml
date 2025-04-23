@@ -9,7 +9,7 @@ on:
     - cron: '0 3 * * *'
 
 jobs:
-  build-and-deploy:
+  check-links:
     runs-on: ubuntu-latest
 
     steps:
