@@ -288,7 +288,6 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [JetBrains](https://www.jetbrains.com/) 🇨🇿 - Developer tools and IDEs for efficient coding.
 
 ### Mail Providers
-- [Dismail](https://dismail.de) 🇩🇪 - Secure and private mailboxes with subaddressing support.
 - [Disroot](https://disroot.org/en/services/email) 🇳🇱 - Privacy-focused email with open-source tools.
 - [La Poste](https://www.laposte.net/accueil)  🇫🇷 - French mail provider with security focus _Belongs to French postal service, and the website is in French_
 - [Mailbox.org](https://mailbox.org/) 🇩🇪 - Secure email with ad-free productivity suites.
@@ -359,7 +358,6 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 ### Scientific software
 - [COMSOL Multiphysics](https://www.comsol.com/) 🇩🇪 - Finite element (FEM) analyzer, solver and simulation software
 - [Enterprise Dynamics](https://www.incontrolsim.com/) 🇳🇱 - 2D and 3D Digital Twin Software
-- [FORM](https://www.nikhef.nl/~form/) 🇳🇱 - Open source symbolic manipulation of very big expressions 
 - [GeoGebra](https://www.geogebra.org/) 🇦🇹 -  Interactive online geometry, algebra, statistics and calculus application
 - [MAGMASOFT](https://www.magmasoft.de/) 🇩🇪 - Casting design and simulation
 - [Scilab](https://www.scilab.org/) 🇫🇷 - Open source software for numerical computation 
