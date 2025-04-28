@@ -97,6 +97,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Timefold](https://timefold.ai/) 🇧🇪 - Planning AI / constraint solver for optimization problems
 - [ZenML](https://zenml.io/) 🇩🇪 - Production-Grade MLOps Systems, handling evaluation, monitoring, and deployment at scale.
 - [Hopsworks](https://hopsworks.ai) 🇸🇪 - AI Lakehouse and MLOps Platform. To Develop, Monitor and Maintain AI Systems.
+- [Trint](https://trint.com/) 🇬🇧 - AI SaaS transcription software with collaborative text editing and commenting tools, document creation with multiple transcription excerpts, and realtime + multi-language transcription capabilities. Specialized in providing services for news and media enterprises.
 
 ### Browsers
 - [Falkon](https://www.falkon.org/) 🇩🇪 - Lightweight Qt-based browser
