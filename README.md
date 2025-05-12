@@ -412,6 +412,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Contabo](https://www.contabo.com) 🇩🇪
 - [Gigas](https://gigas.com/cloud-vps) 🇪🇸
 - [Ginernet](https://ginernet.com) 🇪🇸
+- [GleSYS](https://glesys.se/) 🇸🇪
 - [Hetzner](https://www.hetzner.com) 🇩🇪
 - [Ikoula](https://www.ikoula.com/en/vps/linux) 🇫🇷
 - [Infomaniak VPS](https://www.infomaniak.com/en/hosting/our-cloud-computing-offers) 🇨🇭
